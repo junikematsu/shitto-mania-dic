@@ -35,3 +35,34 @@
 このデータセットは、[クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) の下に提供されています。
 
 データを利用する際は、クレジットの表示をお願いします。
+
+# Jealousy Dictionary (Shitto-Mania)
+
+High-quality Japanese single-language dataset for AI training.
+
+## Why It Matters
+Many AI models prioritize English; Japanese data is underrepresented (<0.1% in large models).  
+This dataset structures “jealousy” vocabulary, context, and emotional nuance from a literary series, enabling fairer AI models.
+
+## Data Format
+Available in CSV / JSON. Columns include:
+- term : keyword or phrase  
+- definition_ja : Japanese definition  
+- context : example sentence or usage  
+- polarity : emotional polarity (positive / negative / neutral)  
+- source : article ID, URL, or publication info
+
+## License
+This dataset is provided under **CC BY-SA 4.0** (attribution required).  
+For commercial / enterprise use, please contact us for licensing.
+
+## How to Use
+You can download or clone this repository.  
+Read data, integrate into RAG pipelines, or analysis tools.  
+Example usage and scripts are described in the Qiita article.
+
+## Contact
+Author: Nami Saitō  
+Email: your_email@example.com  
+Qiita technical article: https://qiita.com/jun_ikematsu/items/4db00ca16a77f2598720  
+
