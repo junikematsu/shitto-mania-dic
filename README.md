@@ -34,35 +34,52 @@
 
 このデータセットは、[クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) の下に提供されています。
 
-データを利用する際は、クレジットの表示をお願いします。
-
 # Jealousy Dictionary (Shitto-Mania)
+*A Japanese emotion dataset for AI — あなたの AI に“嫉妬”を理解させるために*
 
-High-quality Japanese single-language dataset for AI training.
+---
 
-## Why It Matters
-Many AI models prioritize English; Japanese data is underrepresented (<0.1% in large models).  
-This dataset structures “jealousy” vocabulary, context, and emotional nuance from a literary series, enabling fairer AI models.
+## What is this?
+Jealousy Dictionary (“Shitto-Mania”) is a **high-quality, single-language Japanese dataset** focused on emotional nuance, extracted from the “嫉妬マニア” series.  
+It is designed to support AI models in *understanding emotional context*, particularly jealousy, which is often subtle and culture-specific.
 
-## Data Format
-Available in CSV / JSON. Columns include:
-- term : keyword or phrase  
-- definition_ja : Japanese definition  
-- context : example sentence or usage  
-- polarity : emotional polarity (positive / negative / neutral)  
-- source : article ID, URL, or publication info
+## Why it matters
+Many AI models are English‐centric, and Japanese data is underrepresented (<0.1% in large multilingual models).  
+By providing structured emotion data, this dataset helps global AI developers **reduce language bias** and **improve performance on Japanese tasks**.
 
-## License
-This dataset is provided under **CC BY-SA 4.0** (attribution required).  
-For commercial / enterprise use, please contact us for licensing.
+## Use Cases
+- RAG systems with Japanese output and emotion-sensitive tone  
+- Sentiment / emotion analysis tasks specific to Japanese  
+- Fine-tuning large language models to better handle Japanese idioms and emotional nuance  
+- Cross-lingual model evaluation for bias analysis
 
-## How to Use
-You can download or clone this repository.  
-Read data, integrate into RAG pipelines, or analysis tools.  
-Example usage and scripts are described in the Qiita article.
+---
 
-## Contact
-Author: Nami Saitō  
-Email: your_email@example.com  
-Qiita technical article: https://qiita.com/jun_ikematsu/items/4db00ca16a77f2598720  
+## Data Format & Structure
+Data is available in **CSV / JSON**. Below are core columns:
 
+| Column | Description |
+|---|---|
+| `term` | A keyword or phrase (in Japanese) |
+| `definition_ja` | Definition or explanation in Japanese |
+| `context` | Example sentence or usage context |
+| `polarity` | Emotional polarity (positive / negative / neutral) |
+| `source` | Article ID, URL, or publication metadata |
+
+You can also preview a **[sample CSV](./sample_data.csv)** to see data structure.
+
+---
+
+## Usage Example (Python)
+```python
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/junikematsu/shitto-mania-dic/main/sample_data.csv"
+df = pd.read_csv(url)
+print(df.head())
+
+for _, row in df.iterrows():
+    print(row["term"], ":", row["definition_ja"])
+
+
+データを利用する際は、クレジットの表示をお願いします。
