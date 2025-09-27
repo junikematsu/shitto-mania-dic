@@ -1,76 +1,68 @@
-# 嫉妬マニア AI辞書データセット (Jealousy Mania AI Dictionary)
+# 嫉妬辞書（Shitto-Mania / Jealousy Dictionary）
 
-## 概要
+日本語と英語の両方で説明しています。  
+Copy & paste this entire text into your `README.md`.  
+Change **jun.ikematsu@gmail.com** to your actual contact email.
 
-これは、婦人公論.jpで連載されたエッセイ『嫉妬マニア』（著者：斉藤ナミ）の連載記事を元に作成した、AI向けの「嫉妬プロフィール帳」データセットです。本データセットの作成は、著者の斉藤ナミさんとの共同作業です。
+---
 
-人間の複雑な感情である「嫉妬」に関する語彙や文脈を、AIが学習できるように構造化しました。
+## プロジェクト概要 / Project Overview
+- **日本語**  
+  「婦人公論.jp」連載『嫉妬マニア』の記事群から、感情「嫉妬」に関する言葉や文脈を抽出し、  
+  AIが学習しやすい形（CSV / JSON）に構造化したデータセットです。  
+  英語中心のAIモデルに対し、日本語の感情データを提供することで性能と公平性の向上に貢献します。
 
-## スキーマ
-|列名|説明|
+- **English**  
+  The *Jealousy Dictionary* (Shitto-Mania) is a **high-quality Japanese single-language dataset**  
+  extracted from the *Shitto-Mania* essay series published on *Fujinkoron.jp*.  
+  It provides structured Japanese text and emotional context (“jealousy”) for AI training,  
+  helping global AI models reduce English-centric bias and improve fairness.
+
+> **共同プロジェクト / Joint Project**  
+> この辞書は、著者であるエッセイスト **斉藤ナミ** さんと連携して構築した共同プロジェクトです。  
+> This dataset is a **joint project with essayist Nami Saitō**, the original author of the *Shitto-Mania* series.
+
+---
+
+## 重要性 / Why It Matters
+- **日本語**  
+  世界のAIモデルは英語に偏っており、多言語モデルにおける日本語データはわずか0.1%未満です。  
+  本辞書は、日本語特有の感情表現（特に嫉妬）をAIが正しく理解するために不可欠なリソースです。
+
+- **English**  
+  Most AI models are English-centric, and Japanese data represents less than 0.1%  
+  in large multilingual models.  
+  This dataset offers high-quality single-language Japanese data to help  
+  AI developers improve model fairness and performance.
+
+---
+
+## 利用例 / Use Cases
+- **日本語**  
+  - 日本語RAGシステムにおける感情を考慮した回答生成  
+  - 日本語センチメント分析や感情分類  
+  - LLMのファインチューニングやバイアス評価  
+- **English**  
+  - RAG systems with Japanese emotional nuance  
+  - Sentiment or emotion analysis tasks in Japanese  
+  - Fine-tuning large language models or bias evaluation
+
+---
+
+## データ形式 / Data Format
+| 列 / Column | 内容 (日本語) / Description (English) |
 |---|---|
-|番号|#1-#18|
-|掲載日|YYYY/MM/DD|
-|記事タイトル|正式タイトル|
-|嫉妬の方向|本人→他者/他者→本人/双方向|
-|分析対象|主体嫉妬/被嫉妬/概念探求|
-|嫉妬の対象|総括ラベル（人物名に限定しない）|
-|嫉妬の構造（3分類）|ゼロサム/不可侵領域/正当性希求（=自己理想嫉妬など）|
-|…|他の列も続く|
+| `term` | キーワード / Key word or phrase |
+| `definition_ja` | 日本語定義 / Definition in Japanese |
+| `context` | 使用例や文章 / Usage example or context |
+| `polarity` | 感情極性（正/負/中立） / Emotional polarity (positive/negative/neutral) |
+| `source` | 出典記事IDやURL / Source article ID or URL |
 
-## 使い方
-
-データセットの詳しい仕様やPythonを使った分析方法は、以下のQiita記事で解説しています。
-
-* **Qiita記事:** [AIと人間の「嫉妬」を分析してみた 〜連載『嫉妬マニア』の感情データセット公開〜](ここにあなたのQiita記事のURLを貼る)
-
-## 関連リンク
-
-* **斉藤ナミさんのnote (解説・対談記事):** [不倫バッシングは正義？それとも嫉妬？―#嫉妬マニア 連載記事・対談―](https://note.com/panko73/n/n1fd822067498)
-* **データセット作成の元になった連載記事:**
-    * [婦人公論.jp 斉藤ナミ 著者ページ](https://fujinkoron.jp/articles/-/18808)
-
-## ライセンス
-
-このデータセットは、[クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) の下に提供されています。
-
-# Jealousy Dictionary (Shitto-Mania)
-*A Japanese emotion dataset for AI — あなたの AI に“嫉妬”を理解させるために*
+サンプルデータはこちら / Sample CSV → **[sample_data.csv](./sample_data.csv)**
 
 ---
 
-## What is this?
-Jealousy Dictionary (“Shitto-Mania”) is a **high-quality, single-language Japanese dataset** focused on emotional nuance, extracted from the “嫉妬マニア” series.  
-It is designed to support AI models in *understanding emotional context*, particularly jealousy, which is often subtle and culture-specific.
-
-## Why it matters
-Many AI models are English‐centric, and Japanese data is underrepresented (<0.1% in large multilingual models).  
-By providing structured emotion data, this dataset helps global AI developers **reduce language bias** and **improve performance on Japanese tasks**.
-
-## Use Cases
-- RAG systems with Japanese output and emotion-sensitive tone  
-- Sentiment / emotion analysis tasks specific to Japanese  
-- Fine-tuning large language models to better handle Japanese idioms and emotional nuance  
-- Cross-lingual model evaluation for bias analysis
-
----
-
-## Data Format & Structure
-Data is available in **CSV / JSON**. Below are core columns:
-
-| Column | Description |
-|---|---|
-| `term` | A keyword or phrase (in Japanese) |
-| `definition_ja` | Definition or explanation in Japanese |
-| `context` | Example sentence or usage context |
-| `polarity` | Emotional polarity (positive / negative / neutral) |
-| `source` | Article ID, URL, or publication metadata |
-
-You can also preview a **[sample CSV](./sample_data.csv)** to see data structure.
-
----
-
-## Usage Example (Python)
+## 使い方サンプル / Quick Usage Example (Python)
 ```python
 import pandas as pd
 
@@ -80,6 +72,3 @@ print(df.head())
 
 for _, row in df.iterrows():
     print(row["term"], ":", row["definition_ja"])
-
-
-データを利用する際は、クレジットの表示をお願いします。
