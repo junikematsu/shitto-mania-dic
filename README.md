@@ -66,13 +66,12 @@ Change **jun.ikematsu@gmail.com** to your actual contact email.
 - **日本語**
   - **総記事数**: 18件
   - **語彙・用例数**: 18件
-  - **出典**: 「婦人公論.jp」連載『嫉妬マニア』
+  - **出典**: [「婦人公論.jp」連載『嫉妬マニア』](https://fujinkoron.jp/category/shitto_mania)
 
 - **English**
   - **Total Entries**: 18
   - **Vocabulary/Examples**: 18
-  - **Source**: *Shitto-Mania* series on *Fujinkoron.jp*
----
+  - **Source**: [*Shitto-Mania* series on *Fujinkoron.jp*](https://fujinkoron.jp/category/shitto_mania)
 
 ## 使い方サンプル / Quick Usage Example (Python)
 ```python
