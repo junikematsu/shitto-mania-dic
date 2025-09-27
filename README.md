@@ -62,6 +62,18 @@ Change **jun.ikematsu@gmail.com** to your actual contact email.
 
 ---
 
+## データセットの統計情報 / Dataset Statistics
+- **日本語**
+  - **総記事数**: 18件
+  - **語彙・用例数**: 18件
+  - **出典**: 「婦人公論.jp」連載『嫉妬マニア』
+
+- **English**
+  - **Total Entries**: 18
+  - **Vocabulary/Examples**: 18
+  - **Source**: *Shitto-Mania* series on *Fujinkoron.jp*
+---
+
 ## 使い方サンプル / Quick Usage Example (Python)
 ```python
 import pandas as pd
