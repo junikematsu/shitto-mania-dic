@@ -18,9 +18,10 @@ Change **jun.ikematsu@gmail.com** to your actual contact email.
   It provides structured Japanese text and emotional context (“jealousy”) for AI training,  
   helping global AI models reduce English-centric bias and improve fairness.
 
-> **共同プロジェクト / Joint Project**  
-> この辞書は、著者であるエッセイスト **斉藤ナミ** さんと連携して構築した共同プロジェクトです。  
-> This dataset is a **joint project with essayist Nami Saitō**, the original author of the *Shitto-Mania* series.
+本プロジェクトは、エッセイスト斉藤ナミ氏の【著者協力】（素材提供・コメント）を得て制作しました。
+最終的な分析・設計は池松潤が行いました。
+This project was conducted with the cooperation of essayist Nami Saito (material provision and comments).
+All final analysis, design, and publication decisions are the responsibility of Jun Ikematsu.
 
 ---
 
@@ -65,12 +66,10 @@ Change **jun.ikematsu@gmail.com** to your actual contact email.
 ## データセットの統計情報 / Dataset Statistics
 - **日本語**
   - **総記事数**: 18件
-  - **語彙・用例数**: 18件
   - **出典**: [「婦人公論.jp」連載『嫉妬マニア』](https://fujinkoron.jp/category/shitto_mania)
 
 - **English**
   - **Total Entries**: 18
-  - **Vocabulary/Examples**: 18
   - **Source**: [*Shitto-Mania* series on *Fujinkoron.jp*](https://fujinkoron.jp/category/shitto_mania)
 
 ## 使い方サンプル / Quick Usage Example (Python)
