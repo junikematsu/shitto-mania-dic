@@ -37,7 +37,7 @@ This dataset is provided **for research and educational purposes only**.
 Commercial use, resale, or use in commercial AI training is **prohibited**.
 Copyright © Nami Saito.
 
-
+---
 ## 重要性 / Why It Matters
 - **日本語**  
   世界のAIモデルは英語に偏っており、多言語モデルにおける日本語データはわずか0.1%未満です。  
