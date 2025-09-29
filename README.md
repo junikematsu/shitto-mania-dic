@@ -25,6 +25,19 @@ All final analysis, design, and publication decisions are the responsibility of 
 
 ---
 
+## 利用条件 / Usage Policy
+本データセットは、斉藤ナミ氏の著作「嫉妬マニア」（婦人公論.jp連載）を元に作成されています。
+**著作権は斉藤ナミ氏に帰属します。**
+
+- **学術研究・教育目的での利用のみ可**
+- **商用利用（営利目的での利用・二次販売・生成AI学習への商業利用など）は禁止**
+- 利用時には出典（斉藤ナミ「嫉妬マニア」婦人公論.jp）を明記してください。
+
+This dataset is provided **for research and educational purposes only**.
+Commercial use, resale, or use in commercial AI training is **prohibited**.
+Copyright © Nami Saito.
+
+
 ## 重要性 / Why It Matters
 - **日本語**  
   世界のAIモデルは英語に偏っており、多言語モデルにおける日本語データはわずか0.1%未満です。  
