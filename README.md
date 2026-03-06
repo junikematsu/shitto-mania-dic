@@ -95,7 +95,7 @@ print(df.head())
 
 for _, row in df.iterrows():
     print(row["term"], ":", row["definition_ja"])
-
+```
 ---
 
 ## NLP2026 論文データ / NLP2026 Paper Data
