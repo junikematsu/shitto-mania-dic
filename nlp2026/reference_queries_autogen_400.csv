@@ -1,0 +1,401 @@
+﻿query_id,gold_episode_id,query_text,query_style
+Q0001_shorttext,A16036_E016,ちくしょう。たまにはあの時みたいに私の愛を猛烈に欲してくれてもいいのに。もう！ 彼女とLINEしてば... この状況に近いエピソードはどれ？,shorttext
+Q0001_comparison,A16036_E016,"状況はfamily, romantic_relationship / 嫉妬の構造はその他 / 嫉妬対象は愛情 / 比較の構図はself_vs_sibling。この条件に合うエピソードはどれ？",comparison
+Q0001_distance_effort,A16036_E016,"心理的距離は近（家族・友人・同僚） / 状況はfamily, romantic_relationship / 根源は根源的嫉妬 / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0001_behavior,A16036_E016,"比較の構図はself_vs_sibling / 状況はfamily, romantic_relationship / 嫉妬の構造はその他 / 行動パターンは行動化型。この条件に合うエピソードはどれ？",behavior
+Q0002_shorttext,A17709_E007,「あんたなんて代官山に住んでたから付き合ったんだわ」「タカシみたいな喋り方してんのキモいよ」と言って... この状況に近いエピソードはどれ？,shorttext
+Q0002_comparison,A17709_E007,比較の構図はself_vs_other / 嫉妬対象は経済力 / 状況はappearance / 嫉妬の構造は愛情独占型。この条件に合うエピソードはどれ？,comparison
+Q0002_distance_effort,A17709_E007,状況はappearance / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0002_behavior,A17709_E007,嫉妬の構造は愛情独占型 / 状況はappearance / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0003_shorttext,A18219_E003,私だってできることならもっと楽観的に生きたい。クヨクヨうじうじ悩んでいたくない。気さくで、明るく楽し... この状況に近いエピソードはどれ？,shorttext
+Q0003_comparison,A18219_E003,嫉妬対象は承認・評価 / 状況はcreative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0003_distance_effort,A18219_E003,状況はcreative_activity / 心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0003_behavior,A18219_E003,比較の構図はself_vs_other / 嫉妬の構造はその他 / 状況はcreative_activity / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？,behavior
+Q0004_shorttext,A16700_E030,こうしてエッセイストになった今、天才だと思っている人にも相変わらず嫉妬している自分を見て、心底うんざ... この状況に近いエピソードはどれ？,shorttext
+Q0004_comparison,A16700_E030,"嫉妬の構造は承認競争型、不可侵領域型 / 嫉妬対象は承認・評価、能力 / 比較の構図はself_vs_other / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",comparison
+Q0004_distance_effort,A16700_E030,"根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はromantic_relationship, creative_activity / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0004_behavior,A16700_E030,"行動パターンは内省・葛藤型 / 状況はromantic_relationship, creative_activity / 嫉妬の構造は承認競争型、不可侵領域型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0005_shorttext,A19659_E004,ある日の深夜、私が諸々を片付けてドラマを見始めた頃、夫が帰宅してこう言い出した。 「あのさ。実は会社... この状況に近いエピソードはどれ？,shorttext
+Q0005_comparison,A19659_E004,比較の構図はself_vs_other / 嫉妬の構造は愛情独占型 / 状況はworkplace / 嫉妬対象は愛情。この条件に合うエピソードはどれ？,comparison
+Q0005_distance_effort,A19659_E004,努力介入は可能（努力で変えられる） / 状況はworkplace / 心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0005_behavior,A19659_E004,比較の構図はself_vs_other / 嫉妬の構造は愛情独占型 / 行動パターンは内省・葛藤型 / 状況はworkplace。この条件に合うエピソードはどれ？,behavior
+Q0006_shorttext,A19964_E010,嫉妬の感情を失う＝人生の推進力を失う？ この状況に近いエピソードはどれ？,shorttext
+Q0006_comparison,A19964_E010,比較の構図はself_vs_other / 嫉妬の構造はその他 / 嫉妬対象は他者の優位性 / 状況はgeneral。この条件に合うエピソードはどれ？,comparison
+Q0006_distance_effort,A19964_E010,心理的距離は中（知り合い・同業者） / 状況はgeneral / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0006_behavior,A19964_E010,嫉妬の構造はその他 / 行動パターンは内省・葛藤型 / 状況はgeneral / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0007_shorttext,A16030_E010,こんなに嫉妬深い人間が他にいるだろうか？ この状況に近いエピソードはどれ？,shorttext
+Q0007_comparison,A16030_E010,嫉妬対象は他者の優位性 / 比較の構図はself_vs_other / 状況はsocial_media / 嫉妬の構造はゼロサムゲーム型。この条件に合うエピソードはどれ？,comparison
+Q0007_distance_effort,A16030_E010,努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はsocial_media。この条件に合うエピソードはどれ？,distance_effort
+Q0007_behavior,A16030_E010,比較の構図はself_vs_other / 嫉妬の構造はゼロサムゲーム型 / 行動パターンは内省・葛藤型 / 状況はsocial_media。この条件に合うエピソードはどれ？,behavior
+Q0008_shorttext,A16840_E034,嫉妬するということは「超えたい」という気持ちを生み、原動力にもなります。それがあったからここまで来ら... この状況に近いエピソードはどれ？,shorttext
+Q0008_comparison,A16840_E034,比較の構図はself_vs_other / 嫉妬の構造はその他 / 状況はcreative_activity / 嫉妬対象は承認・評価。この条件に合うエピソードはどれ？,comparison
+Q0008_distance_effort,A16840_E034,状況はcreative_activity / 努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0008_behavior,A16840_E034,嫉妬の構造はその他 / 状況はcreative_activity / 比較の構図はself_vs_other / 行動パターンは昇華型。この条件に合うエピソードはどれ？,behavior
+Q0009_shorttext,A19964_E015,私が目指している「嫉妬しない人」の正体 この状況に近いエピソードはどれ？,shorttext
+Q0009_comparison,A19964_E015,嫉妬の構造はその他 / 比較の構図はself_vs_other / 状況はcreative_activity / 嫉妬対象は承認・評価。この条件に合うエピソードはどれ？,comparison
+Q0009_distance_effort,A19964_E015,状況はcreative_activity / 心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0009_behavior,A19964_E015,嫉妬の構造はその他 / 状況はcreative_activity / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0010_shorttext,A18132_E003,彼女たちが人形を買ってもらえること、数日で一番大事な髪を禿げさせたこと、それを気にもせずすぐに次のオ... この状況に近いエピソードはどれ？,shorttext
+Q0010_comparison,A18132_E003,"嫉妬対象は承認・評価、愛情 / 状況はfamily, romantic_relationship, creative_activity / 嫉妬の構造はゼロサムゲーム型 / 比較の構図はself_vs_parent。この条件に合うエピソードはどれ？",comparison
+Q0010_distance_effort,A18132_E003,"根源は根源的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は近（家族・友人・同僚） / 状況はfamily, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0010_behavior,A18132_E003,"行動パターンは内省・葛藤型 / 嫉妬の構造はゼロサムゲーム型 / 比較の構図はself_vs_parent / 状況はfamily, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0011_shorttext,A16925_E002,自虐で笑わせようと必死なのが透けて見えてしまっている私の投稿は今日もどん滑りしていて半日で1300ビ... この状況に近いエピソードはどれ？,shorttext
+Q0011_comparison,A16925_E002,"状況はsocial_media, romantic_relationship, creative_activity / 嫉妬の構造は承認競争型 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情。この条件に合うエピソードはどれ？",comparison
+Q0011_distance_effort,A16925_E002,"根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はsocial_media, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0011_behavior,A16925_E002,"嫉妬の構造は承認競争型 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はsocial_media, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0012_shorttext,A17138_E004,自宅へ遊びに行った際、彼女たちが高級ブラシでツヤツヤな髪を梳かしながら大人のような口調で韓流アイドル... この状況に近いエピソードはどれ？,shorttext
+Q0012_comparison,A17138_E004,"比較の構図はself_vs_friend / 嫉妬対象は愛情、経済力 / 嫉妬の構造はその他 / 状況はromantic_relationship, friendship。この条件に合うエピソードはどれ？",comparison
+Q0012_distance_effort,A17138_E004,"努力介入は可能（努力で変えられる） / 心理的距離は近（家族・友人・同僚） / 状況はromantic_relationship, friendship / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0012_behavior,A17138_E004,"行動パターンは内省・葛藤型 / 比較の構図はself_vs_friend / 嫉妬の構造はその他 / 状況はromantic_relationship, friendship。この条件に合うエピソードはどれ？",behavior
+Q0013_shorttext,A16030_E026,私だって誰かれかまわず万物に嫉妬をしているわけでもない。 この状況に近いエピソードはどれ？,shorttext
+Q0013_comparison,A16030_E026,"嫉妬の構造は美人資本型 / 嫉妬対象は容姿、愛情 / 比較の構図はself_vs_other / 状況はromantic_relationship, creative_activity, appearance。この条件に合うエピソードはどれ？",comparison
+Q0013_distance_effort,A16030_E026,"努力介入は不可能（生まれつき・才能） / 心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬 / 状況はromantic_relationship, creative_activity, appearance。この条件に合うエピソードはどれ？",distance_effort
+Q0013_behavior,A16030_E026,"嫉妬の構造は美人資本型 / 状況はromantic_relationship, creative_activity, appearance / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0014_shorttext,A18132_E001,本物のリカちゃんを持っている彼女たちが羨ましかった。 この状況に近いエピソードはどれ？,shorttext
+Q0014_comparison,A18132_E001,"嫉妬対象は承認・評価、愛情 / 嫉妬の構造はその他 / 状況はromantic_relationship, creative_activity / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0014_distance_effort,A18132_E001,"状況はromantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0014_behavior,A18132_E001,"比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0015_shorttext,A16276_E020,スマホさえ持っていれば、無限に嫉妬し放題 この状況に近いエピソードはどれ？,shorttext
+Q0015_comparison,A16276_E020,"比較の構図はself_vs_other / 嫉妬の構造はその他 / 嫉妬対象は承認・評価 / 状況はsocial_media, creative_activity。この条件に合うエピソードはどれ？",comparison
+Q0015_distance_effort,A16276_E020,"心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 状況はsocial_media, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0015_behavior,A16276_E020,"比較の構図はself_vs_other / 嫉妬の構造はその他 / 行動パターンは抑制型 / 状況はsocial_media, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0016_shorttext,A16700_E021,私は今、知り合いのエッセイストの「新刊が出ます」のお知らせが世界で一番嫌いだ。 この状況に近いエピソードはどれ？,shorttext
+Q0016_comparison,A16700_E021,"比較の構図はself_vs_other / 嫉妬対象は能力、愛情 / 嫉妬の構造はゼロサムゲーム型 / 状況はworkplace, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",comparison
+Q0016_distance_effort,A16700_E021,"努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 状況はworkplace, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0016_behavior,A16700_E021,"嫉妬の構造はゼロサムゲーム型 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other / 状況はworkplace, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0017_shorttext,A18023_E007,それなのになぜこんなに東京が羨ましいのだろう？ この状況に近いエピソードはどれ？,shorttext
+Q0017_comparison,A18023_E007,"比較の構図はself_vs_other / 状況はworkplace, creative_activity / 嫉妬対象は承認・評価、容姿 / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？",comparison
+Q0017_distance_effort,A18023_E007,"状況はworkplace, creative_activity / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 心理的距離は遠（有名人・概念）。この条件に合うエピソードはどれ？",distance_effort
+Q0017_behavior,A18023_E007,"比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はworkplace, creative_activity / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？",behavior
+Q0018_shorttext,A16840_E004,だから「自分の嫉妬は自分だけのもの」という感じがして。それは自分の本質や真実を映し出す、逆さまになっ... この状況に近いエピソードはどれ？,shorttext
+Q0018_comparison,A16840_E004,状況はcreative_activity / 比較の構図はself_vs_other / 嫉妬対象は承認・評価 / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,comparison
+Q0018_distance_effort,A16840_E004,根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はcreative_activity / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？,distance_effort
+Q0018_behavior,A16840_E004,状況はcreative_activity / 嫉妬の構造はその他 / 行動パターンは抑制型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0019_shorttext,A17458_E006,髪が直毛だったら、肌が白かったら、背が低かったら……。こんな遺伝子をよこした親を呪った。 この状況に近いエピソードはどれ？,shorttext
+Q0019_comparison,A17458_E006,"嫉妬対象は承認・評価、容姿 / 嫉妬の構造は美人資本型、不可侵領域型 / 状況はcreative_activity, appearance / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0019_distance_effort,A17458_E006,"努力介入は不可能（生まれつき・才能） / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はcreative_activity, appearance。この条件に合うエピソードはどれ？",distance_effort
+Q0019_behavior,A17458_E006,"状況はcreative_activity, appearance / 嫉妬の構造は美人資本型、不可侵領域型 / 比較の構図はself_vs_other / 行動パターンは攻撃・模倣型。この条件に合うエピソードはどれ？",behavior
+Q0020_shorttext,A16030_E024,もし誰にも何にも嫉妬することがなくなったら、それって私なんだろうか？ この状況に近いエピソードはどれ？,shorttext
+Q0020_comparison,A16030_E024,嫉妬の構造はその他 / 状況はgeneral / 比較の構図はself_vs_other / 嫉妬対象は愛情。この条件に合うエピソードはどれ？,comparison
+Q0020_distance_effort,A16030_E024,心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 状況はgeneral。この条件に合うエピソードはどれ？,distance_effort
+Q0020_behavior,A16030_E024,比較の構図はself_vs_other / 嫉妬の構造はその他 / 状況はgeneral / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？,behavior
+Q0021_shorttext,A19964_E006,SNSのアカウントを見ると、送り主のSさん（仮名）は都内に住む２人の子どもがいる３０代前半の母親のよ... この状況に近いエピソードはどれ？,shorttext
+Q0021_comparison,A19964_E006,"嫉妬対象は他者の優位性 / 比較の構図はself_vs_parent / 嫉妬の構造はゼロサムゲーム型、不可侵領域型 / 状況はsocial_media, family。この条件に合うエピソードはどれ？",comparison
+Q0021_distance_effort,A19964_E006,"心理的距離は近（家族・友人・同僚） / 根源は根源的嫉妬 / 状況はsocial_media, family / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0021_behavior,A19964_E006,"行動パターンは内省・葛藤型 / 状況はsocial_media, family / 嫉妬の構造はゼロサムゲーム型、不可侵領域型 / 比較の構図はself_vs_parent。この条件に合うエピソードはどれ？",behavior
+Q0022_shorttext,A16700_E010,数ヵ月後のある日、彼女が「お知らせがあります」とSNSで珍しくしっかりした告知をした。あの時の心臓の... この状況に近いエピソードはどれ？,shorttext
+Q0022_comparison,A16700_E010,"状況はsocial_media, romantic_relationship, creative_activity / 嫉妬対象は承認・評価、愛情 / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0022_distance_effort,A16700_E010,"努力介入は可能（努力で変えられる） / 状況はsocial_media, romantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0022_behavior,A16700_E010,"嫉妬の構造はその他 / 状況はsocial_media, romantic_relationship, creative_activity / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0023_shorttext,A16030_E004,それに比べて私は、本をまだ1冊しか出せていないし、彼女よりフォロワーも人気も少ない。なんだか「いいね... この状況に近いエピソードはどれ？,shorttext
+Q0023_comparison,A16030_E004,"嫉妬の構造は承認競争型 / 状況はsocial_media, romantic_relationship, creative_activity / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情。この条件に合うエピソードはどれ？",comparison
+Q0023_distance_effort,A16030_E004,"状況はsocial_media, romantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0023_behavior,A16030_E004,"状況はsocial_media, romantic_relationship, creative_activity / 嫉妬の構造は承認競争型 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0024_shorttext,A19005_E013,アメリカの心理学者、デイビッド・M・バスは自身の著書や記事で男性の恋愛における嫉妬についてこう論じて... この状況に近いエピソードはどれ？,shorttext
+Q0024_comparison,A19005_E013,"比較の構図はself_vs_other / 嫉妬対象は愛情 / 状況はworkplace, romantic_relationship / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0024_distance_effort,A19005_E013,"状況はworkplace, romantic_relationship / 心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬 / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0024_behavior,A19005_E013,"嫉妬の構造はその他 / 状況はworkplace, romantic_relationship / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0025_shorttext,A17458_E018,美しさへの嫉妬に加えて異性の目や恋愛が絡むと、それはもう憎しみに近いものに変わる。 この状況に近いエピソードはどれ？,shorttext
+Q0025_comparison,A17458_E018,"嫉妬の構造はゼロサムゲーム型、美人資本型 / 比較の構図はself_vs_other / 嫉妬対象は容姿、愛情 / 状況はworkplace, romantic_relationship。この条件に合うエピソードはどれ？",comparison
+Q0025_distance_effort,A17458_E018,"努力介入は不可能（生まれつき・才能） / 心理的距離は遠（有名人・概念） / 根源は根源的嫉妬 / 状況はworkplace, romantic_relationship。この条件に合うエピソードはどれ？",distance_effort
+Q0025_behavior,A17458_E018,"行動パターンは攻撃・模倣型 / 嫉妬の構造はゼロサムゲーム型、美人資本型 / 比較の構図はself_vs_other / 状況はworkplace, romantic_relationship。この条件に合うエピソードはどれ？",behavior
+Q0026_shorttext,A16840_E011,オーストラリアの人類学者ガッサン・ハージが「移動性への妬み」と呼ぶ現象があります この状況に近いエピソードはどれ？,shorttext
+Q0026_comparison,A16840_E011,状況はcreative_activity / 嫉妬対象は承認・評価 / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,comparison
+Q0026_distance_effort,A16840_E011,心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 状況はcreative_activity。この条件に合うエピソードはどれ？,distance_effort
+Q0026_behavior,A16840_E011,行動パターンは内省・葛藤型 / 状況はcreative_activity / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,behavior
+Q0027_shorttext,A16030_E015,社会人になればどの職場でも、仕事で自分の能力を認められたい、ライバルには絶対に負けたくないと思ってい... この状況に近いエピソードはどれ？,shorttext
+Q0027_comparison,A16030_E015,"比較の構図はself_vs_friend / 嫉妬の構造はゼロサムゲーム型、承認競争型 / 状況はworkplace, romantic_relationship, friendship / 嫉妬対象は承認・評価、能力。この条件に合うエピソードはどれ？",comparison
+Q0027_distance_effort,A16030_E015,"心理的距離は近（家族・友人・同僚） / 状況はworkplace, romantic_relationship, friendship / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0027_behavior,A16030_E015,"嫉妬の構造はゼロサムゲーム型、承認競争型 / 状況はworkplace, romantic_relationship, friendship / 行動パターンは攻撃・模倣型 / 比較の構図はself_vs_friend。この条件に合うエピソードはどれ？",behavior
+Q0028_shorttext,A17709_E009,SNSを眺めては、東京だったらもっと書く仕事もあるはずなのに。もっとイベントに呼ばれるかもしれないの... この状況に近いエピソードはどれ？,shorttext
+Q0028_comparison,A17709_E009,"比較の構図はself_vs_other / 状況はworkplace, social_media, creative_activity / 嫉妬対象は容姿 / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？",comparison
+Q0028_distance_effort,A17709_E009,"心理的距離は中（知り合い・同業者） / 状況はworkplace, social_media, creative_activity / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0028_behavior,A17709_E009,"嫉妬の構造は美人資本型 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はworkplace, social_media, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0029_shorttext,A17458_E021,努力していないはず、どこかに欠点があるはずと粗探しをし、引きずりおろそうとしてしまう。 この状況に近いエピソードはどれ？,shorttext
+Q0029_comparison,A17458_E021,嫉妬の構造はゼロサムゲーム型 / 状況はgeneral / 嫉妬対象は他者の優位性 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0029_distance_effort,A17458_E021,心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬 / 状況はgeneral / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？,distance_effort
+Q0029_behavior,A17458_E021,嫉妬の構造はゼロサムゲーム型 / 行動パターンは昇華型 / 比較の構図はself_vs_other / 状況はgeneral。この条件に合うエピソードはどれ？,behavior
+Q0030_shorttext,A16030_E009,私は嫉妬に取り憑かれている。朝起きて一番最初にすることが、SNSを見て誰かに嫉妬をすることだなんて我... この状況に近いエピソードはどれ？,shorttext
+Q0030_comparison,A16030_E009,"比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情 / 状況はsocial_media, romantic_relationship / 嫉妬の構造はゼロサムゲーム型、承認競争型。この条件に合うエピソードはどれ？",comparison
+Q0030_distance_effort,A16030_E009,"努力介入は可能（努力で変えられる） / 状況はsocial_media, romantic_relationship / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0030_behavior,A16030_E009,"行動パターンは内省・葛藤型 / 嫉妬の構造はゼロサムゲーム型、承認競争型 / 状況はsocial_media, romantic_relationship / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0031_shorttext,A18808_E005,幸せそうな他人を見ると、自分と比べて嫉妬をしてしまう。 この状況に近いエピソードはどれ？,shorttext
+Q0031_comparison,A18808_E005,嫉妬の構造はゼロサムゲーム型 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価 / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0031_distance_effort,A18808_E005,努力介入は可能（努力で変えられる） / 状況はcreative_activity / 根源は関係的嫉妬 / 心理的距離は遠（有名人・概念）。この条件に合うエピソードはどれ？,distance_effort
+Q0031_behavior,A18808_E005,行動パターンは内省・葛藤型 / 状況はcreative_activity / 比較の構図はself_vs_other / 嫉妬の構造はゼロサムゲーム型。この条件に合うエピソードはどれ？,behavior
+Q0032_shorttext,A18808_E011,「あいつだけいい思いしやがって」と村八分にされる、独特のジメジメ感がある。 この状況に近いエピソードはどれ？,shorttext
+Q0032_comparison,A18808_E011,状況はcreative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価。この条件に合うエピソードはどれ？,comparison
+Q0032_distance_effort,A18808_E011,努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 状況はcreative_activity / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0032_behavior,A18808_E011,比較の構図はself_vs_other / 嫉妬の構造はその他 / 行動パターンは攻撃・模倣型 / 状況はcreative_activity。この条件に合うエピソードはどれ？,behavior
+Q0033_shorttext,A16700_E004,歌はめっちゃうまい。でも和泉はけしからん この状況に近いエピソードはどれ？,shorttext
+Q0033_comparison,A16700_E004,比較の構図はself_vs_other / 嫉妬対象は承認・評価、能力 / 嫉妬の構造は愛情独占型 / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0033_distance_effort,A16700_E004,努力介入は可能（努力で変えられる） / 状況はcreative_activity / 根源は根源的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0033_behavior,A16700_E004,比較の構図はself_vs_other / 状況はcreative_activity / 行動パターンは攻撃・模倣型 / 嫉妬の構造は愛情独占型。この条件に合うエピソードはどれ？,behavior
+Q0034_shorttext,A18023_E006,実際、私も「愛知って名古屋の中心部以外は田舎だよ」と自虐しているくせに、他人に「遊びに行っても何もな... この状況に近いエピソードはどれ？,shorttext
+Q0034_comparison,A18023_E006,比較の構図はself_vs_other / 状況はgeneral / 嫉妬の構造はその他 / 嫉妬対象は愛情。この条件に合うエピソードはどれ？,comparison
+Q0034_distance_effort,A18023_E006,状況はgeneral / 根源は根源的嫉妬 / 心理的距離は遠（有名人・概念） / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？,distance_effort
+Q0034_behavior,A18023_E006,状況はgeneral / 嫉妬の構造はその他 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0035_shorttext,A16276_E022,ヤキモキさせられた仕返しに私もLINEを何時間か無視してやろうと意気込むけれど、実際にLINEがくる... この状況に近いエピソードはどれ？,shorttext
+Q0035_comparison,A16276_E022,嫉妬対象は愛情 / 状況はsocial_media / 嫉妬の構造はその他 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0035_distance_effort,A16276_E022,根源は根源的嫉妬 / 状況はsocial_media / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0035_behavior,A16276_E022,嫉妬の構造はその他 / 状況はsocial_media / 行動パターンは抑制型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0036_shorttext,A16840_E026,東出昌大さんみたいに、山でこもって料理をする人はおそらく嫉妬心もないだろうし、比較することもないでし... この状況に近いエピソードはどれ？,shorttext
+Q0036_comparison,A16840_E026,状況はcreative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価。この条件に合うエピソードはどれ？,comparison
+Q0036_distance_effort,A16840_E026,心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 状況はcreative_activity。この条件に合うエピソードはどれ？,distance_effort
+Q0036_behavior,A16840_E026,行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 状況はcreative_activity / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0037_shorttext,A16840_E019,僕らは氷河期世代の出口あたりで、若い人たちが売り手市場でひょいっといい就職をすると「えー」と思ってし... この状況に近いエピソードはどれ？,shorttext
+Q0037_comparison,A16840_E019,"状況はsocial_media, creative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価。この条件に合うエピソードはどれ？",comparison
+Q0037_distance_effort,A16840_E019,"根源は関係的嫉妬 / 状況はsocial_media, creative_activity / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？",distance_effort
+Q0037_behavior,A16840_E019,"嫉妬の構造はその他 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はsocial_media, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0038_shorttext,A17243_E008,友達がたくさんいる人が羨ましいという思いは相変わらずあるけれど、気の合わない人と無理して居るより一人... この状況に近いエピソードはどれ？,shorttext
+Q0038_comparison,A17243_E008,"状況はsocial_media, romantic_relationship, friendship / 嫉妬の構造はその他 / 比較の構図はself_vs_friend / 嫉妬対象は承認・評価、愛情。この条件に合うエピソードはどれ？",comparison
+Q0038_distance_effort,A17243_E008,"心理的距離は近（家族・友人・同僚） / 根源は関係的嫉妬 / 状況はsocial_media, romantic_relationship, friendship / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0038_behavior,A17243_E008,"嫉妬の構造はその他 / 比較の構図はself_vs_friend / 行動パターンは内省・葛藤型 / 状況はsocial_media, romantic_relationship, friendship。この条件に合うエピソードはどれ？",behavior
+Q0039_shorttext,A17458_E022,自信のなさや美人への嫉妬がいつでもドロドロと渦巻いていて、また新しい美容系のインチキ広告に惹きつけら... この状況に近いエピソードはどれ？,shorttext
+Q0039_comparison,A17458_E022,"嫉妬の構造は社会的ポジション型、美人資本型 / 比較の構図はself_vs_other / 状況はworkplace, creative_activity, appearance / 嫉妬対象は容姿。この条件に合うエピソードはどれ？",comparison
+Q0039_distance_effort,A17458_E022,"心理的距離は遠（有名人・概念） / 根源は根源的嫉妬 / 状況はworkplace, creative_activity, appearance / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0039_behavior,A17458_E022,"状況はworkplace, creative_activity, appearance / 比較の構図はself_vs_other / 行動パターンは行動化型 / 嫉妬の構造は社会的ポジション型、美人資本型。この条件に合うエピソードはどれ？",behavior
+Q0040_shorttext,A17138_E003,高級住宅街に住み、娘たちの学校は、学校行事に夫がいないと「ご主人はどちらに海外出張ですか？」なんて尋... この状況に近いエピソードはどれ？,shorttext
+Q0040_comparison,A17138_E003,"比較の構図はself_vs_friend / 嫉妬対象は愛情、経済力 / 状況はromantic_relationship, friendship / 嫉妬の構造はゼロサムゲーム型。この条件に合うエピソードはどれ？",comparison
+Q0040_distance_effort,A17138_E003,"状況はromantic_relationship, friendship / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 心理的距離は近（家族・友人・同僚）。この条件に合うエピソードはどれ？",distance_effort
+Q0040_behavior,A17138_E003,"行動パターンは内省・葛藤型 / 嫉妬の構造はゼロサムゲーム型 / 比較の構図はself_vs_friend / 状況はromantic_relationship, friendship。この条件に合うエピソードはどれ？",behavior
+Q0041_shorttext,A17458_E007,美人は人生丸ごとイージーモード この状況に近いエピソードはどれ？,shorttext
+Q0041_comparison,A17458_E007,状況はromantic_relationship / 比較の構図はself_vs_other / 嫉妬の構造は美人資本型 / 嫉妬対象は容姿、愛情。この条件に合うエピソードはどれ？,comparison
+Q0041_distance_effort,A17458_E007,状況はromantic_relationship / 心理的距離は遠（有名人・概念） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0041_behavior,A17458_E007,状況はromantic_relationship / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？,behavior
+Q0042_shorttext,A16276_E018,女性客が多いので一日中嫉妬まみれだ。 この状況に近いエピソードはどれ？,shorttext
+Q0042_comparison,A16276_E018,"嫉妬対象は愛情 / 状況はworkplace, social_media, romantic_relationship / 嫉妬の構造はその他 / 比較の構図はself_vs_friend。この条件に合うエピソードはどれ？",comparison
+Q0042_distance_effort,A16276_E018,"根源は根源的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は近（家族・友人・同僚） / 状況はworkplace, social_media, romantic_relationship。この条件に合うエピソードはどれ？",distance_effort
+Q0042_behavior,A16276_E018,"状況はworkplace, social_media, romantic_relationship / 行動パターンは攻撃・模倣型 / 嫉妬の構造はその他 / 比較の構図はself_vs_friend。この条件に合うエピソードはどれ？",behavior
+Q0043_shorttext,A18023_E004,東京に住んでいる人が羨ましい この状況に近いエピソードはどれ？,shorttext
+Q0043_comparison,A18023_E004,状況はgeneral / 比較の構図はself_vs_other / 嫉妬の構造はその他 / 嫉妬対象は愛情。この条件に合うエピソードはどれ？,comparison
+Q0043_distance_effort,A18023_E004,努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 心理的距離は遠（有名人・概念） / 状況はgeneral。この条件に合うエピソードはどれ？,distance_effort
+Q0043_behavior,A18023_E004,比較の構図はself_vs_other / 嫉妬の構造はその他 / 状況はgeneral / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？,behavior
+Q0044_shorttext,A18023_E008,私はそれらのコメントに深く頷いてもなお「それでも東京にいるあなたはかっこよくて羨ましいよ」と思ってし... この状況に近いエピソードはどれ？,shorttext
+Q0044_comparison,A18023_E008,"嫉妬対象は承認・評価、容姿 / 状況はworkplace, creative_activity / 比較の構図はself_vs_other / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？",comparison
+Q0044_distance_effort,A18023_E008,"状況はworkplace, creative_activity / 心理的距離は遠（有名人・概念） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0044_behavior,A18023_E008,"嫉妬の構造は美人資本型 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はworkplace, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0045_shorttext,A19659_E002,最近とある事件の報道を見て、嫉妬の恐るべき破壊衝動を改めて思い知らされている。 この状況に近いエピソードはどれ？,shorttext
+Q0045_comparison,A19659_E002,嫉妬の構造は社会的ポジション型、愛情独占型 / 比較の構図はself_vs_other / 状況はgeneral / 嫉妬対象は愛情、経済力。この条件に合うエピソードはどれ？,comparison
+Q0045_distance_effort,A19659_E002,努力介入は可能（努力で変えられる） / 状況はgeneral / 根源は根源的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0045_behavior,A19659_E002,嫉妬の構造は社会的ポジション型、愛情独占型 / 状況はgeneral / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0046_shorttext,A16276_E028,嫉妬か執着か独占欲か愛か？ なんてことは、いつだってごちゃまぜで、きっといつまでもわからないのだろう... この状況に近いエピソードはどれ？,shorttext
+Q0046_comparison,A16276_E028,状況はromantic_relationship / 比較の構図はself_vs_other / 嫉妬対象は愛情 / 嫉妬の構造はゼロサムゲーム型、愛情独占型。この条件に合うエピソードはどれ？,comparison
+Q0046_distance_effort,A16276_E028,努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 状況はromantic_relationship / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0046_behavior,A16276_E028,状況はromantic_relationship / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はゼロサムゲーム型、愛情独占型。この条件に合うエピソードはどれ？,behavior
+Q0047_shorttext,A17458_E017,会社員のころは、ちょっといいなと思っていた男性支店長が、やたら休憩時間を長く取るかわいくてギャルっぽ... この状況に近いエピソードはどれ？,shorttext
+Q0047_comparison,A17458_E017,"状況はworkplace, romantic_relationship, appearance / 嫉妬対象は容姿、愛情 / 嫉妬の構造はゼロサムゲーム型、美人資本型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0047_distance_effort,A17458_E017,"心理的距離は中（知り合い・同業者） / 状況はworkplace, romantic_relationship, appearance / 根源は根源的嫉妬 / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0047_behavior,A17458_E017,"行動パターンは攻撃・模倣型 / 状況はworkplace, romantic_relationship, appearance / 嫉妬の構造はゼロサムゲーム型、美人資本型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0048_shorttext,A16700_E005,紫式部先輩、めちゃくちゃ嫉妬してるじゃん！ この状況に近いエピソードはどれ？,shorttext
+Q0048_comparison,A16700_E005,嫉妬の構造は愛情独占型、不可侵領域型 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、能力 / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0048_distance_effort,A16700_E005,心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬 / 状況はcreative_activity / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？,distance_effort
+Q0048_behavior,A16700_E005,比較の構図はself_vs_other / 状況はcreative_activity / 嫉妬の構造は愛情独占型、不可侵領域型 / 行動パターンは攻撃・模倣型。この条件に合うエピソードはどれ？,behavior
+Q0049_shorttext,A16700_E025,嫉妬していることがバレたらダサいので、自分ではユミちゃんの悪口は言わずにいた。 この状況に近いエピソードはどれ？,shorttext
+Q0049_comparison,A16700_E025,"状況はromantic_relationship, creative_activity, appearance / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情 / 嫉妬の構造はゼロサムゲーム型、承認競争型。この条件に合うエピソードはどれ？",comparison
+Q0049_distance_effort,A16700_E025,"努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はromantic_relationship, creative_activity, appearance。この条件に合うエピソードはどれ？",distance_effort
+Q0049_behavior,A16700_E025,"状況はromantic_relationship, creative_activity, appearance / 嫉妬の構造はゼロサムゲーム型、承認競争型 / 行動パターンは攻撃・模倣型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0050_shorttext,A17138_E006,裕福な家庭に生まれてしっかりお嬢様なあんたが、それ以上何をしてもらいたかったんだ？ この状況に近いエピソードはどれ？,shorttext
+Q0050_comparison,A17138_E006,嫉妬対象は経済力 / 比較の構図はself_vs_other / 嫉妬の構造はその他 / 状況はgeneral。この条件に合うエピソードはどれ？,comparison
+Q0050_distance_effort,A17138_E006,努力介入は不可能（生まれつき・才能） / 根源は関係的嫉妬 / 状況はgeneral / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0050_behavior,A17138_E006,嫉妬の構造はその他 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other / 状況はgeneral。この条件に合うエピソードはどれ？,behavior
+Q0051_shorttext,A16030_E014,好きな人と楽しそうに話している女がいれば、そいつの髪を仕込んだ藁人形に五寸釘を打ち込んで呪うことまで... この状況に近いエピソードはどれ？,shorttext
+Q0051_comparison,A16030_E014,"嫉妬対象は承認・評価、能力 / 嫉妬の構造はゼロサムゲーム型、承認競争型 / 状況はworkplace, family, romantic_relationship / 比較の構図はself_vs_sibling。この条件に合うエピソードはどれ？",comparison
+Q0051_distance_effort,A16030_E014,"心理的距離は近（家族・友人・同僚） / 根源は根源的嫉妬 / 努力介入は可能（努力で変えられる） / 状況はworkplace, family, romantic_relationship。この条件に合うエピソードはどれ？",distance_effort
+Q0051_behavior,A16030_E014,"嫉妬の構造はゼロサムゲーム型、承認競争型 / 比較の構図はself_vs_sibling / 状況はworkplace, family, romantic_relationship / 行動パターンは攻撃・模倣型。この条件に合うエピソードはどれ？",behavior
+Q0052_shorttext,A19964_E011,もし嫉妬がないとしたら、その人の「モチベーション」や「向上心」はどこから来るのか？ 嫉妬という感情を... この状況に近いエピソードはどれ？,shorttext
+Q0052_comparison,A19964_E011,状況はromantic_relationship / 嫉妬対象は愛情 / 嫉妬の構造はゼロサムゲーム型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0052_distance_effort,A19964_E011,心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 状況はromantic_relationship。この条件に合うエピソードはどれ？,distance_effort
+Q0052_behavior,A19964_E011,比較の構図はself_vs_other / 嫉妬の構造はゼロサムゲーム型 / 状況はromantic_relationship / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？,behavior
+Q0053_shorttext,A19659_E007,腹の底で煮えたぎっていた怒りがだんだんと表面に込み上げてきた。ふざけるな。彼女は私が長男を一人で家で... この状況に近いエピソードはどれ？,shorttext
+Q0053_comparison,A19659_E007,"嫉妬の構造は美人資本型 / 比較の構図はself_vs_other / 状況はworkplace, romantic_relationship / 嫉妬対象は容姿、愛情。この条件に合うエピソードはどれ？",comparison
+Q0053_distance_effort,A19659_E007,"状況はworkplace, romantic_relationship / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0053_behavior,A19659_E007,"行動パターンは内省・葛藤型 / 比較の構図はself_vs_other / 状況はworkplace, romantic_relationship / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？",behavior
+Q0054_shorttext,A18808_E013,コロナ下で自粛警察がどこからともなく湧いてでたのは、単なる正義感だけでなく、やはり嫉妬が混ざったスパ... この状況に近いエピソードはどれ？,shorttext
+Q0054_comparison,A18808_E013,嫉妬の構造はその他 / 嫉妬対象は他者の優位性 / 状況はcreative_activity / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0054_distance_effort,A18808_E013,状況はcreative_activity / 心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0054_behavior,A18808_E013,嫉妬の構造はその他 / 比較の構図はself_vs_other / 状況はcreative_activity / 行動パターンは攻撃・模倣型。この条件に合うエピソードはどれ？,behavior
+Q0055_shorttext,A16700_E015,私は40代、あなたはまだ30代なのに。 この状況に近いエピソードはどれ？,shorttext
+Q0055_comparison,A16700_E015,"比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情 / 状況はromantic_relationship, creative_activity / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0055_distance_effort,A16700_E015,"努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はromantic_relationship, creative_activity / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0055_behavior,A16700_E015,"比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0056_shorttext,A17458_E023,ああ、もっとキレイになりたい。 この状況に近いエピソードはどれ？,shorttext
+Q0056_comparison,A17458_E023,状況はappearance / 嫉妬の構造は美人資本型 / 嫉妬対象は容姿 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0056_distance_effort,A17458_E023,努力介入は不可能（生まれつき・才能） / 心理的距離は遠（有名人・概念） / 状況はappearance / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0056_behavior,A17458_E023,状況はappearance / 行動パターンは行動化型 / 比較の構図はself_vs_other / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？,behavior
+Q0057_shorttext,A19005_E014,普段から、やれ家の大きさだの、車だの、人脈のすごさだのと、あらゆるステータスを比較して自慢しあったり... この状況に近いエピソードはどれ？,shorttext
+Q0057_comparison,A19005_E014,"状況はworkplace, friendship, creative_activity / 嫉妬対象は承認・評価 / 比較の構図はself_vs_friend / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0057_distance_effort,A19005_E014,"心理的距離は近（家族・友人・同僚） / 努力介入は可能（努力で変えられる） / 状況はworkplace, friendship, creative_activity / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0057_behavior,A19005_E014,"状況はworkplace, friendship, creative_activity / 比較の構図はself_vs_friend / 嫉妬の構造はその他 / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0058_shorttext,A18808_E024,あんなスキャンダルがあっても、あの塩顔イケメン俳優の供給量だけは、どうか減らないでくれ！ と祈ってい... この状況に近いエピソードはどれ？,shorttext
+Q0058_comparison,A18808_E024,状況はgeneral / 比較の構図はself_vs_other / 嫉妬の構造は美人資本型、愛情独占型 / 嫉妬対象は容姿。この条件に合うエピソードはどれ？,comparison
+Q0058_distance_effort,A18808_E024,心理的距離は中（知り合い・同業者） / 状況はgeneral / 努力介入は不可能（生まれつき・才能） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0058_behavior,A18808_E024,比較の構図はself_vs_other / 状況はgeneral / 行動パターンは内省・葛藤型 / 嫉妬の構造は美人資本型、愛情独占型。この条件に合うエピソードはどれ？,behavior
+Q0059_shorttext,A16840_E003,自分の嫉妬は自分だけのもの この状況に近いエピソードはどれ？,shorttext
+Q0059_comparison,A16840_E003,比較の構図はself_vs_other / 嫉妬の構造はその他 / 嫉妬対象は他者の優位性 / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0059_distance_effort,A16840_E003,努力介入は可能（努力で変えられる） / 状況はcreative_activity / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0059_behavior,A16840_E003,比較の構図はself_vs_other / 行動パターンは行動化型 / 嫉妬の構造はその他 / 状況はcreative_activity。この条件に合うエピソードはどれ？,behavior
+Q0060_shorttext,A16030_E025,嫉妬は私の原動力になっているんじゃないだろうか？ この状況に近いエピソードはどれ？,shorttext
+Q0060_comparison,A16030_E025,"嫉妬対象は愛情 / 比較の構図はself_vs_other / 状況はromantic_relationship, creative_activity / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0060_distance_effort,A16030_E025,"努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 状況はromantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？",distance_effort
+Q0060_behavior,A16030_E025,"状況はromantic_relationship, creative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 行動パターンは昇華型。この条件に合うエピソードはどれ？",behavior
+Q0061_shorttext,A17458_E003,容姿だけで人を判断することは愚かだし、容姿以上に中身が大事だとは思うけれど、できることなら少しでもキ... この状況に近いエピソードはどれ？,shorttext
+Q0061_comparison,A17458_E003,"比較の構図はself_vs_other / 嫉妬の構造は承認競争型、美人資本型 / 状況はworkplace, social_media, appearance / 嫉妬対象は承認・評価、容姿。この条件に合うエピソードはどれ？",comparison
+Q0061_distance_effort,A17458_E003,"状況はworkplace, social_media, appearance / 努力介入は不可能（生まれつき・才能） / 心理的距離は遠（有名人・概念） / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0061_behavior,A17458_E003,"状況はworkplace, social_media, appearance / 嫉妬の構造は承認競争型、美人資本型 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0062_shorttext,A19964_E016,今のところ私が目指している「嫉妬しない人」の正体は、これだ。自分の価値を決める基準が自分の中にしかな... この状況に近いエピソードはどれ？,shorttext
+Q0062_comparison,A19964_E016,比較の構図はself_vs_other / 嫉妬の構造はその他 / 嫉妬対象は社会的地位 / 状況はgeneral。この条件に合うエピソードはどれ？,comparison
+Q0062_distance_effort,A19964_E016,状況はgeneral / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0062_behavior,A19964_E016,比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 状況はgeneral。この条件に合うエピソードはどれ？,behavior
+Q0063_shorttext,A16700_E008,「少しでも面白くなりたい」と本を読みまくり「少しでも名を売りたい」と界隈に必死にアピールしまくってい... この状況に近いエピソードはどれ？,shorttext
+Q0063_comparison,A16700_E008,"嫉妬対象は承認・評価、能力 / 比較の構図はself_vs_other / 状況はsocial_media, romantic_relationship, creative_activity / 嫉妬の構造は不可侵領域型。この条件に合うエピソードはどれ？",comparison
+Q0063_distance_effort,A16700_E008,"根源は関係的嫉妬 / 努力介入は不可能（生まれつき・才能） / 状況はsocial_media, romantic_relationship, creative_activity / 心理的距離は遠（有名人・概念）。この条件に合うエピソードはどれ？",distance_effort
+Q0063_behavior,A16700_E008,"状況はsocial_media, romantic_relationship, creative_activity / 比較の構図はself_vs_other / 嫉妬の構造は不可侵領域型 / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0064_shorttext,A17458_E012,美人な分、周りからの嫉妬が多いとか、ストーカーの対象にされやすいとか、老いて突然チヤホヤされなくなっ... この状況に近いエピソードはどれ？,shorttext
+Q0064_comparison,A17458_E012,比較の構図はself_vs_other / 嫉妬対象は容姿、能力 / 状況はgeneral / 嫉妬の構造は美人資本型。この条件に合うエピソードはどれ？,comparison
+Q0064_distance_effort,A17458_E012,根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 状況はgeneral / 心理的距離は遠（有名人・概念）。この条件に合うエピソードはどれ？,distance_effort
+Q0064_behavior,A17458_E012,行動パターンは内省・葛藤型 / 嫉妬の構造は美人資本型 / 状況はgeneral / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0065_shorttext,A16840_E005,山本先生の「嫉妬論」は嫉妬を淡々と分解して仕組みを学べる本で、すごく救われました。 この状況に近いエピソードはどれ？,shorttext
+Q0065_comparison,A16840_E005,嫉妬対象は承認・評価、愛情 / 嫉妬の構造はその他 / 状況はcreative_activity / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0065_distance_effort,A16840_E005,状況はcreative_activity / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0065_behavior,A16840_E005,状況はcreative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 行動パターンは抑制型。この条件に合うエピソードはどれ？,behavior
+Q0066_shorttext,A16840_E009,言葉として嫉妬なのか向上心なのかは分からないけど、そう考えられたらエネルギーにできるんじゃないか この状況に近いエピソードはどれ？,shorttext
+Q0066_comparison,A16840_E009,状況はcreative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情。この条件に合うエピソードはどれ？,comparison
+Q0066_distance_effort,A16840_E009,努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はcreative_activity / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0066_behavior,A16840_E009,状況はcreative_activity / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0067_shorttext,A19450_E005,ちなみに夫はそこそこの大学を出ているが、新卒で入った会社は早々に辞めて関係ない職種に転職し、今は独立... この状況に近いエピソードはどれ？,shorttext
+Q0067_comparison,A19450_E005,"状況はworkplace, creative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、経済力。この条件に合うエピソードはどれ？",comparison
+Q0067_distance_effort,A19450_E005,"根源は関係的嫉妬 / 状況はworkplace, creative_activity / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？",distance_effort
+Q0067_behavior,A19450_E005,"状況はworkplace, creative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0068_shorttext,A19964_E012,Sさんに限らず、嫉妬をすることにエネルギーを使いたくなくて、静かに諦めている人は多そうだ。 この状況に近いエピソードはどれ？,shorttext
+Q0068_comparison,A19964_E012,比較の構図はself_vs_other / 嫉妬対象は承認・評価 / 状況はcreative_activity / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,comparison
+Q0068_distance_effort,A19964_E012,努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はcreative_activity / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0068_behavior,A19964_E012,状況はcreative_activity / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,behavior
+Q0069_shorttext,A16700_E028,自分自身に集中して技術をもっと高めれば良いものを「あの子は下手なくせにずるい」と思ってしまう気持ちと... この状況に近いエピソードはどれ？,shorttext
+Q0069_comparison,A16700_E028,"状況はromantic_relationship, creative_activity / 嫉妬対象は承認・評価、能力 / 比較の構図はself_vs_other / 嫉妬の構造は承認競争型、不可侵領域型。この条件に合うエピソードはどれ？",comparison
+Q0069_distance_effort,A16700_E028,"根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 努力介入は不可能（生まれつき・才能） / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0069_behavior,A16700_E028,"比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造は承認競争型、不可侵領域型 / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0070_shorttext,A19289_E004,オンラインサロンは嫉妬の巣窟だった。誰がよりオーナーの寵愛を受けるか、誰がより高い地位に立つかを巡る... この状況に近いエピソードはどれ？,shorttext
+Q0070_comparison,A19289_E004,嫉妬対象は愛情、社会的地位 / 嫉妬の構造は社会的ポジション型 / 状況はsocial_media / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0070_distance_effort,A19289_E004,状況はsocial_media / 努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0070_behavior,A19289_E004,状況はsocial_media / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造は社会的ポジション型。この条件に合うエピソードはどれ？,behavior
+Q0071_shorttext,A16276_E026,先に嫉妬が生まれたからこそ、彼を好きだと感じたのかもしれない。 この状況に近いエピソードはどれ？,shorttext
+Q0071_comparison,A16276_E026,比較の構図はself_vs_other / 嫉妬対象は愛情 / 状況はromantic_relationship / 嫉妬の構造はゼロサムゲーム型、愛情独占型。この条件に合うエピソードはどれ？,comparison
+Q0071_distance_effort,A16276_E026,状況はromantic_relationship / 心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0071_behavior,A16276_E026,比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はゼロサムゲーム型、愛情独占型 / 状況はromantic_relationship。この条件に合うエピソードはどれ？,behavior
+Q0072_shorttext,A16840_E012,自分の人生が停滞していると感じる中で、移民が結婚したり子どもが出来たり、人生のコマを進めているのを見... この状況に近いエピソードはどれ？,shorttext
+Q0072_comparison,A16840_E012,状況はgeneral / 嫉妬の構造はその他 / 嫉妬対象は他者の優位性 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0072_distance_effort,A16840_E012,根源は根源的嫉妬 / 状況はgeneral / 心理的距離は遠（有名人・概念） / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？,distance_effort
+Q0072_behavior,A16840_E012,比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 状況はgeneral。この条件に合うエピソードはどれ？,behavior
+Q0073_shorttext,A16840_E014,アメブロではランキングがついて、読んでもらうだけでは満足できなくなり、上位に入りたいという欲が出てき... この状況に近いエピソードはどれ？,shorttext
+Q0073_comparison,A16840_E014,"嫉妬の構造はゼロサムゲーム型 / 嫉妬対象は承認・評価 / 状況はsocial_media, creative_activity / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0073_distance_effort,A16840_E014,"努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 状況はsocial_media, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0073_behavior,A16840_E014,"嫉妬の構造はゼロサムゲーム型 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はsocial_media, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0074_shorttext,A16030_E018,お金持ちで素敵な夫とかわいい子どもがいて、高級なカフェで開催される女子会をしょっちゅう見せびらかして... この状況に近いエピソードはどれ？,shorttext
+Q0074_comparison,A16030_E018,嫉妬対象は承認・評価、容姿 / 嫉妬の構造は承認競争型、美人資本型 / 比較の構図はself_vs_other / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0074_distance_effort,A16030_E018,心理的距離は中（知り合い・同業者） / 状況はcreative_activity / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？,distance_effort
+Q0074_behavior,A16030_E018,比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造は承認競争型、美人資本型 / 状況はcreative_activity。この条件に合うエピソードはどれ？,behavior
+Q0075_shorttext,A16276_E024,歴史の教科書を読んで、一夫多妻制の時代に生まれなくて本当によかったと少女時代は思っていたけれど、今の... この状況に近いエピソードはどれ？,shorttext
+Q0075_comparison,A16276_E024,"嫉妬対象は承認・評価、愛情 / 状況はromantic_relationship, creative_activity / 比較の構図はself_vs_other / 嫉妬の構造は愛情独占型。この条件に合うエピソードはどれ？",comparison
+Q0075_distance_effort,A16276_E024,"根源は根源的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0075_behavior,A16276_E024,"嫉妬の構造は愛情独占型 / 比較の構図はself_vs_other / 状況はromantic_relationship, creative_activity / 行動パターンは抑制型。この条件に合うエピソードはどれ？",behavior
+Q0076_shorttext,A19005_E018,男性の嫉妬が世界を動かしてきた この状況に近いエピソードはどれ？,shorttext
+Q0076_comparison,A19005_E018,"比較の構図はself_vs_other / 嫉妬対象は承認・評価、能力 / 嫉妬の構造は社会的ポジション型、不可侵領域型 / 状況はworkplace, creative_activity。この条件に合うエピソードはどれ？",comparison
+Q0076_distance_effort,A19005_E018,"根源は関係的嫉妬 / 状況はworkplace, creative_activity / 心理的距離は中（知り合い・同業者） / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0076_behavior,A19005_E018,"状況はworkplace, creative_activity / 行動パターンは内省・葛藤型 / 嫉妬の構造は社会的ポジション型、不可侵領域型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0077_shorttext,A16700_E002,自分が周りと比べてどんな位置にいるのかも気になって仕方がない。 この状況に近いエピソードはどれ？,shorttext
+Q0077_comparison,A16700_E002,嫉妬対象は他者の優位性 / 状況はcreative_activity / 嫉妬の構造はその他 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0077_distance_effort,A16700_E002,根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はcreative_activity。この条件に合うエピソードはどれ？,distance_effort
+Q0077_behavior,A16700_E002,嫉妬の構造はその他 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other / 状況はcreative_activity。この条件に合うエピソードはどれ？,behavior
+Q0078_shorttext,A16030_E011,これまで私は嫉妬のせいでどれほど失敗してきたことか。 この状況に近いエピソードはどれ？,shorttext
+Q0078_comparison,A16030_E011,"比較の構図はself_vs_friend / 嫉妬の構造はその他 / 嫉妬対象は愛情、経済力 / 状況はromantic_relationship, friendship。この条件に合うエピソードはどれ？",comparison
+Q0078_distance_effort,A16030_E011,"心理的距離は近（家族・友人・同僚） / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 状況はromantic_relationship, friendship。この条件に合うエピソードはどれ？",distance_effort
+Q0078_behavior,A16030_E011,"比較の構図はself_vs_friend / 状況はromantic_relationship, friendship / 行動パターンは内省・葛藤型 / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",behavior
+Q0079_shorttext,A19005_E009,主人公オセローは「妻デズデモーナが不貞を働いた」という友人イアーゴの嘘を信じ、激しい嫉妬に駆られ妻を... この状況に近いエピソードはどれ？,shorttext
+Q0079_comparison,A19005_E009,"比較の構図はself_vs_sibling / 嫉妬対象は承認・評価、愛情 / 状況はfamily, romantic_relationship, friendship / 嫉妬の構造は愛情独占型。この条件に合うエピソードはどれ？",comparison
+Q0079_distance_effort,A19005_E009,"努力介入は可能（努力で変えられる） / 根源は根源的嫉妬 / 心理的距離は近（家族・友人・同僚） / 状況はfamily, romantic_relationship, friendship。この条件に合うエピソードはどれ？",distance_effort
+Q0079_behavior,A19005_E009,"行動パターンは内省・葛藤型 / 嫉妬の構造は愛情独占型 / 比較の構図はself_vs_sibling / 状況はfamily, romantic_relationship, friendship。この条件に合うエピソードはどれ？",behavior
+Q0080_shorttext,A18023_E011,豊かな自然、ゆったりとした時間、安い物価、そして背伸びすることなく暮らせる地元。それがどれほどありが... この状況に近いエピソードはどれ？,shorttext
+Q0080_comparison,A18023_E011,比較の構図はself_vs_other / 状況はcreative_activity / 嫉妬対象は承認・評価 / 嫉妬の構造は承認競争型、愛情独占型。この条件に合うエピソードはどれ？,comparison
+Q0080_distance_effort,A18023_E011,状況はcreative_activity / 努力介入は可能（努力で変えられる） / 心理的距離は遠（有名人・概念） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0080_behavior,A18023_E011,嫉妬の構造は承認競争型、愛情独占型 / 状況はcreative_activity / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0081_shorttext,A18808_E002,私は一生懸命、人の道を外れないように真面目に生きているのに……ずるい！！ この状況に近いエピソードはどれ？,shorttext
+Q0081_comparison,A18808_E002,"嫉妬の構造はゼロサムゲーム型 / 嫉妬対象は愛情 / 状況はworkplace, romantic_relationship / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0081_distance_effort,A18808_E002,"努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はworkplace, romantic_relationship / 根源は関係的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0081_behavior,A18808_E002,"嫉妬の構造はゼロサムゲーム型 / 状況はworkplace, romantic_relationship / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0082_shorttext,A16276_E002,嫉妬に取りつかれた私は、SNSで〈私と真逆なリョウコ〉になりすまし自分の恋人にDMした。 この状況に近いエピソードはどれ？,shorttext
+Q0082_comparison,A16276_E002,"嫉妬対象は承認・評価、愛情 / 嫉妬の構造は承認競争型、愛情独占型 / 状況はworkplace, social_media, romantic_relationship / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0082_distance_effort,A16276_E002,"心理的距離は中（知り合い・同業者） / 状況はworkplace, social_media, romantic_relationship / 努力介入は可能（努力で変えられる） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0082_behavior,A16276_E002,"状況はworkplace, social_media, romantic_relationship / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 嫉妬の構造は承認競争型、愛情独占型。この条件に合うエピソードはどれ？",behavior
+Q0083_shorttext,A16925_E003,なんで歯医者行くのにそんなヒール履いてんだよ。ちっとも「いいね」と思わないけれど、「いいね」しないと... この状況に近いエピソードはどれ？,shorttext
+Q0083_comparison,A16925_E003,"状況はsocial_media, romantic_relationship, creative_activity / 嫉妬の構造は承認競争型 / 比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情。この条件に合うエピソードはどれ？",comparison
+Q0083_distance_effort,A16925_E003,"心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 状況はsocial_media, romantic_relationship, creative_activity / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0083_behavior,A16925_E003,"嫉妬の構造は承認競争型 / 状況はsocial_media, romantic_relationship, creative_activity / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0084_shorttext,A16925_E007,SNSとは現代人を歪ませるために作られたのかと思うほど、要らない嫉妬や劣等感をボコボコと生み出しブク... この状況に近いエピソードはどれ？,shorttext
+Q0084_comparison,A16925_E007,比較の構図はself_vs_other / 嫉妬の構造はその他 / 状況はsocial_media / 嫉妬対象は他者の優位性。この条件に合うエピソードはどれ？,comparison
+Q0084_distance_effort,A16925_E007,努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はsocial_media。この条件に合うエピソードはどれ？,distance_effort
+Q0084_behavior,A16925_E007,状況はsocial_media / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,behavior
+Q0085_shorttext,A16030_E033,旧約聖書の『創世記』では、アダムとイブの長男であるカインが弟のアベルに嫉妬して殺してしまう。 この状況に近いエピソードはどれ？,shorttext
+Q0085_comparison,A16030_E033,"嫉妬対象は承認・評価、愛情 / 嫉妬の構造はその他 / 比較の構図はself_vs_sibling / 状況はfamily, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",comparison
+Q0085_distance_effort,A16030_E033,"状況はfamily, romantic_relationship, creative_activity / 努力介入は可能（努力で変えられる） / 心理的距離は近（家族・友人・同僚） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？",distance_effort
+Q0085_behavior,A16030_E033,"嫉妬の構造はその他 / 状況はfamily, romantic_relationship, creative_activity / 比較の構図はself_vs_sibling / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0086_shorttext,A18023_E005,しかし、いまだにあのキラキラした世界や、そこに暮らす人々への嫉妬が消えないという内容だ。 この状況に近いエピソードはどれ？,shorttext
+Q0086_comparison,A18023_E005,状況はgeneral / 嫉妬対象は愛情 / 嫉妬の構造はその他 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0086_distance_effort,A18023_E005,状況はgeneral / 努力介入は可能（努力で変えられる） / 心理的距離は遠（有名人・概念） / 根源は根源的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0086_behavior,A18023_E005,状況はgeneral / 嫉妬の構造はその他 / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0087_shorttext,A18808_E023,くそー、羨ましい！ この状況に近いエピソードはどれ？,shorttext
+Q0087_comparison,A18808_E023,嫉妬の構造は美人資本型、愛情独占型 / 状況はgeneral / 比較の構図はself_vs_other / 嫉妬対象は容姿。この条件に合うエピソードはどれ？,comparison
+Q0087_distance_effort,A18808_E023,心理的距離は中（知り合い・同業者） / 努力介入は不可能（生まれつき・才能） / 状況はgeneral / 根源は関係的嫉妬。この条件に合うエピソードはどれ？,distance_effort
+Q0087_behavior,A18808_E023,嫉妬の構造は美人資本型、愛情独占型 / 行動パターンは感情表出型 / 比較の構図はself_vs_other / 状況はgeneral。この条件に合うエピソードはどれ？,behavior
+Q0088_shorttext,A16030_E031,どうして人間は嫉妬をするのだろうか？ この状況に近いエピソードはどれ？,shorttext
+Q0088_comparison,A16030_E031,嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は他者の優位性 / 状況はgeneral。この条件に合うエピソードはどれ？,comparison
+Q0088_distance_effort,A16030_E031,状況はgeneral / 努力介入は可能（努力で変えられる） / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0088_behavior,A16030_E031,嫉妬の構造はその他 / 行動パターンは抑制型 / 状況はgeneral / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0089_shorttext,A19005_E023,大河ドラマの時代はもちろん、現代においても、フルタイムで働いたり出世争いに加わったりできるほど活躍で... この状況に近いエピソードはどれ？,shorttext
+Q0089_comparison,A19005_E023,状況はcreative_activity / 嫉妬の構造は社会的ポジション型、不可侵領域型 / 嫉妬対象は承認・評価、能力 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0089_distance_effort,A19005_E023,状況はcreative_activity / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？,distance_effort
+Q0089_behavior,A19005_E023,状況はcreative_activity / 行動パターンは内省・葛藤型 / 嫉妬の構造は社会的ポジション型、不可侵領域型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0090_shorttext,A16700_E014,パッと書いたものがすぐ当たってもう書籍化？ この状況に近いエピソードはどれ？,shorttext
+Q0090_comparison,A16700_E014,"比較の構図はself_vs_other / 嫉妬対象は承認・評価、愛情 / 状況はsocial_media, romantic_relationship, creative_activity / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0090_distance_effort,A16700_E014,"根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 状況はsocial_media, romantic_relationship, creative_activity / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0090_behavior,A16700_E014,"状況はsocial_media, romantic_relationship, creative_activity / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",behavior
+Q0091_shorttext,A19450_E007,このどうしようもない嫉妬は、きっと私が「そうありたかった」という理想の裏返しだ。 この状況に近いエピソードはどれ？,shorttext
+Q0091_comparison,A19450_E007,比較の構図はself_vs_other / 嫉妬対象は他者の優位性 / 嫉妬の構造はその他 / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0091_distance_effort,A19450_E007,状況はcreative_activity / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？,distance_effort
+Q0091_behavior,A19450_E007,行動パターンは内省・葛藤型 / 状況はcreative_activity / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？,behavior
+Q0092_shorttext,A18132_E009,やっぱり、そんな無駄使いをしているのに罪悪感を感じないなんて全く羨ましくなんてない。いい加減にしてほ... この状況に近いエピソードはどれ？,shorttext
+Q0092_comparison,A18132_E009,嫉妬の構造はその他 / 比較の構図はself_vs_other / 嫉妬対象は他者の優位性 / 状況はcreative_activity。この条件に合うエピソードはどれ？,comparison
+Q0092_distance_effort,A18132_E009,心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 状況はcreative_activity。この条件に合うエピソードはどれ？,distance_effort
+Q0092_behavior,A18132_E009,行動パターンは内省・葛藤型 / 嫉妬の構造はその他 / 比較の構図はself_vs_other / 状況はcreative_activity。この条件に合うエピソードはどれ？,behavior
+Q0093_shorttext,A16700_E007,天才エッセイストに嫉妬 この状況に近いエピソードはどれ？,shorttext
+Q0093_comparison,A16700_E007,"状況はsocial_media, romantic_relationship, creative_activity / 嫉妬の構造は不可侵領域型 / 嫉妬対象は承認・評価、能力 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",comparison
+Q0093_distance_effort,A16700_E007,"状況はsocial_media, romantic_relationship, creative_activity / 根源は関係的嫉妬 / 心理的距離は遠（有名人・概念） / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0093_behavior,A16700_E007,"嫉妬の構造は不可侵領域型 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型 / 状況はsocial_media, romantic_relationship, creative_activity。この条件に合うエピソードはどれ？",behavior
+Q0094_shorttext,A17709_E002,この夏、東京都では家計負担軽減策として水道の基本料金が4ヵ月間無料になるらしい。なんで東京だけなんだ... この状況に近いエピソードはどれ？,shorttext
+Q0094_comparison,A17709_E002,嫉妬対象は承認・評価、容姿 / 状況はcreative_activity / 嫉妬の構造はゼロサムゲーム型、美人資本型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0094_distance_effort,A17709_E002,心理的距離は遠（有名人・概念） / 根源は関係的嫉妬 / 努力介入は可能（努力で変えられる） / 状況はcreative_activity。この条件に合うエピソードはどれ？,distance_effort
+Q0094_behavior,A17709_E002,状況はcreative_activity / 比較の構図はself_vs_other / 嫉妬の構造はゼロサムゲーム型、美人資本型 / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？,behavior
+Q0095_shorttext,A16840_E013,「結局（嫉妬を）抑制するのか」という戸惑いがありましたが。振り返ると、政治学の視点で考えてそうなった... この状況に近いエピソードはどれ？,shorttext
+Q0095_comparison,A16840_E013,比較の構図はself_vs_other / 状況はgeneral / 嫉妬の構造はその他 / 嫉妬対象は他者の優位性。この条件に合うエピソードはどれ？,comparison
+Q0095_distance_effort,A16840_E013,努力介入は可能（努力で変えられる） / 状況はgeneral / 根源は関係的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0095_behavior,A16840_E013,嫉妬の構造はその他 / 状況はgeneral / 行動パターンは内省・葛藤型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0096_shorttext,A16030_E036,もはや、嫉妬を好きになり始めているのかもしれない。 この状況に近いエピソードはどれ？,shorttext
+Q0096_comparison,A16030_E036,嫉妬の構造はその他 / 嫉妬対象は愛情 / 状況はromantic_relationship / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,comparison
+Q0096_distance_effort,A16030_E036,努力介入は可能（努力で変えられる） / 状況はromantic_relationship / 根源は根源的嫉妬 / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？,distance_effort
+Q0096_behavior,A16030_E036,行動パターンは内省・葛藤型 / 状況はromantic_relationship / 嫉妬の構造はその他 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？,behavior
+Q0097_shorttext,A16700_E029,ユミちゃんが接客だけでなく技術もある天才だったらきっと嫉妬なんかすることもなかったのに この状況に近いエピソードはどれ？,shorttext
+Q0097_comparison,A16700_E029,"比較の構図はself_vs_other / 状況はromantic_relationship, creative_activity / 嫉妬対象は承認・評価、能力 / 嫉妬の構造は承認競争型、不可侵領域型。この条件に合うエピソードはどれ？",comparison
+Q0097_distance_effort,A16700_E029,"状況はromantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者） / 根源は関係的嫉妬 / 努力介入は不可能（生まれつき・才能）。この条件に合うエピソードはどれ？",distance_effort
+Q0097_behavior,A16700_E029,"嫉妬の構造は承認競争型、不可侵領域型 / 比較の構図はself_vs_other / 状況はromantic_relationship, creative_activity / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
+Q0098_shorttext,A16700_E012,彗星のごとく現れてあっという間にその夢をつかんだ彼女が羨ましくて仕方なかった この状況に近いエピソードはどれ？,shorttext
+Q0098_comparison,A16700_E012,"状況はromantic_relationship, creative_activity / 嫉妬対象は承認・評価、愛情 / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0098_distance_effort,A16700_E012,"根源は関係的嫉妬 / 状況はromantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者） / 努力介入は可能（努力で変えられる）。この条件に合うエピソードはどれ？",distance_effort
+Q0098_behavior,A16700_E012,"行動パターンは内省・葛藤型 / 状況はromantic_relationship, creative_activity / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",behavior
+Q0099_shorttext,A18132_E008,普通の家に生まれ、正しくお金を使うことになんの罪悪感もない人は、心底羨ましいと思う。 この状況に近いエピソードはどれ？,shorttext
+Q0099_comparison,A18132_E008,"状況はromantic_relationship, creative_activity / 嫉妬対象は承認・評価、愛情 / 比較の構図はself_vs_other / 嫉妬の構造はその他。この条件に合うエピソードはどれ？",comparison
+Q0099_distance_effort,A18132_E008,"根源は根源的嫉妬 / 努力介入は可能（努力で変えられる） / 心理的距離は中（知り合い・同業者） / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",distance_effort
+Q0099_behavior,A18132_E008,"嫉妬の構造はその他 / 状況はromantic_relationship, creative_activity / 行動パターンは抑制型 / 比較の構図はself_vs_other。この条件に合うエピソードはどれ？",behavior
+Q0100_shorttext,A16700_E027,あの子はあの子、私は私、と割り切れない。 この状況に近いエピソードはどれ？,shorttext
+Q0100_comparison,A16700_E027,"比較の構図はself_vs_other / 嫉妬対象は承認・評価、能力 / 嫉妬の構造は承認競争型、不可侵領域型 / 状況はromantic_relationship, creative_activity。この条件に合うエピソードはどれ？",comparison
+Q0100_distance_effort,A16700_E027,"根源は関係的嫉妬 / 努力介入は不可能（生まれつき・才能） / 状況はromantic_relationship, creative_activity / 心理的距離は中（知り合い・同業者）。この条件に合うエピソードはどれ？",distance_effort
+Q0100_behavior,A16700_E027,"状況はromantic_relationship, creative_activity / 嫉妬の構造は承認競争型、不可侵領域型 / 比較の構図はself_vs_other / 行動パターンは内省・葛藤型。この条件に合うエピソードはどれ？",behavior
