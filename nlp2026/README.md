@@ -13,3 +13,4 @@
 ## Reference
 
 池松 潤 (2026). RAG時代の言語資源設計原理 ー構造化テキストによる「参照可能性」の実証. 言語処理学会第32回年次大会.
+https://github.com/junikematsu/shitto-mania-dic/tree/main/nlp2026
