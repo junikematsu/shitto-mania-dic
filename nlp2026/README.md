@@ -13,6 +13,7 @@
 ## データセット概要 / Dataset Overview
 
 - **原典 / Source**: 婦人公論.jp 連載『嫉妬マニア』（著者：斉藤ナミ氏、2025年3月〜12月）
+- https://fujinkoron.jp/category/shitto_mania
 - **エピソード数 / Episodes**: 321件
 - **メタデータ項目 / Metadata fields**: 25項目（構造化メタデータ）
 - **評価クエリ / Evaluation queries**: 400件（4種類 x 100件）
