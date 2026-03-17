@@ -95,12 +95,15 @@ Our central claim is simple: in the RAG era, language resources should be design
 
 4. **クエリ特性との相互作用**: `distance_effort`（距離・努力）クエリではDense E5 coreが17.0%と特に低く、カテゴリカル情報のexact matchが重要な検索タスクではTF-IDFが大きく優位。一方、`behavior`（行動パターン）クエリではDense E5 coreが51.0%と比較的健闘し、行動記述とembedding空間の親和性を示唆。
 
-## Additional Experimental Findings
+## Additional Experimental Findings / Key Findings
 
 - **Generality across retrieval methods:** The advantage of structured metadata (`core_text`) is not limited to TF-IDF. It also holds in dense retrieval (`STRUCT`: **37.3% vs 6.3%**, **5.9×**). This suggests that **referenceability** is a design principle for language resources, not an artifact of a specific retrieval method.
+
 - **Design matters more than compute:** **TF-IDF + `core_text` (69.2%)** outperforms **Dense E5 + `core_text` (53.0%)**. Even higher-cost vector retrieval does not surpass well-designed metadata combined with simple sparse retrieval. In pairwise analysis, TF-IDF beats Dense E5 on **67%** of structure-oriented queries.
-- **Dense retrieval does not rescue `long_text`:** `Dense E5 + chunked_long_text` reaches only **6.3%** `STRUCT` Hit@10, which is nearly the same as **TF-IDF + long_text (5.3%)**. Even semantic vector retrieval does not substantially improve retrieval when the source text itself is not structured for reference.
-- **Interaction with query type:** For `distance_effort` queries, `Dense E5 + core_text` performs especially poorly (**17.0%**), suggesting that exact matching of categorical cues remains important in this type of retrieval task. By contrast, for `behavior` queries, `Dense E5 + core_text` reaches **51.0%**, indicating a better fit between behavior descriptions and embedding-based retrieval.
+
+- **Dense retrieval does not rescue `long_text`:** **Dense E5 + `chunked_long_text`** reaches only **6.3%** `STRUCT` Hit@10, which is nearly the same as **TF-IDF + `long_text` (5.3%)**. Even semantic vector retrieval does not substantially improve retrieval when the source text itself is not structured for reference.
+
+- **Interaction with query type:** For `distance_effort` queries, **Dense E5 + `core_text`** performs especially poorly (**17.0%**), suggesting that exact matching of categorical cues remains important in this type of retrieval task. By contrast, for `behavior` queries, **Dense E5 + `core_text`** reaches **51.0%**, indicating a better fit between behavior descriptions and embedding-based retrieval.
 
 ## 利用条件 / Usage Policy
 
