@@ -2,6 +2,16 @@
 
 嫉妬AI辞書（Jealousy AI Dictionary）のNLP2026論文で使用した実験データです。
 
+## English Summary
+
+This repository contains the dataset and additional experiment results for our NLP2026 study on language resource design in the RAG era.
+
+Using a 321-episode Japanese dataset derived from the essay series *Shitto Mania*, we test whether structured metadata improves retrieval accuracy compared to full text.
+
+**Key finding:** structured metadata alone outperforms full text by **11.1×** in TF-IDF retrieval (**59.0% vs 5.3% Recall@10**, p < 0.001). The advantage also persists in dense retrieval (E5).
+
+Our central claim is simple: in the RAG era, language resources should be designed not only as text for humans to read, but as **referenceable specifications for AI systems**.
+
 ## Files
 
 | File | Description |
