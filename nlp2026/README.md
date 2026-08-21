@@ -91,7 +91,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 1. Dense Retrievalでも確認: 構造化メタデータ（core_text）の優位性は、multilingual-e5-largeでも確認された（STRUCT: 37.3% vs 6.3%、5.9倍）。ただし、これは1つのDenseモデル・1つのデータセットでの結果であり、検索手法一般に依存しないことを示すものではない。
 
-2. **設計 > 計算力**: TF-IDF + core_text（69.2%）が Dense E5 + core_text（53.0%）を上回った。高コストのベクトル検索でも、適切に設計されたメタデータ＋TF-IDFには及ばない。ペア分析では、構造クエリの67%でTF-IDFがDense E5に勝利した。
+2. **設計 > 計算力**: TF-IDF + core_text（69.2%）が Dense E5 + core_text（53.0%）を上回った。ペア分析では、構造クエリの67%でTF-IDFがDense E5に勝利した。
 
 3. **Dense検索はlong_textを救わない**: Dense E5 + chunked_long_text のSTRUCT Hit@10 は 6.3% で、TF-IDF + long_text の 5.3% とほぼ同水準。意味ベクトルによる検索でも、構造化されていない本文からの検索精度は低いままである。
 
