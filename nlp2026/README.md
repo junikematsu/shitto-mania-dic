@@ -93,7 +93,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 2. **設計 > 計算力**: TF-IDF + core_text（69.2%）が Dense E5 + core_text（53.0%）を上回った。ペア分析では、構造クエリの67%でTF-IDFがDense E5に勝利した。
 
-3. **Dense検索はlong_textを救わない**: Dense E5 + chunked_long_text のSTRUCT Hit@10 は 6.3% で、TF-IDF + long_text の 5.3% とほぼ同水準。意味ベクトルによる検索でも、構造化されていない本文からの検索精度は低いままである。
+3. **Dense検索はlong_textを救わない**: Dense E5 + chunked_long_text のSTRUCT Hit@10 は 6.3% で、TF-IDF + long_text の 5.3% とほぼ同水準。
 
 4. **クエリ特性との相互作用**: `distance_effort`（距離・努力）クエリではDense E5 coreが17.0%と特に低く、カテゴリカル情報のexact matchが重要な検索タスクではTF-IDFが大きく優位。一方、`behavior`（行動パターン）クエリではDense E5 coreが51.0%と比較的健闘し、行動記述とembedding空間の親和性を示唆。
 
