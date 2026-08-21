@@ -2,19 +2,21 @@
 
 嫉妬AI辞書（Jealousy AI Dictionary）のNLP2026論文で使用した実験データです。
 
-## English Summary
+## AI Referenceability
 
-This repository contains the dataset and additional experiment results for our NLP2026 study on language resource design in the RAG era.
+I use "AI Referenceability" as the public-facing term. In my paper presented at the 32nd Annual Meeting of the Association for Natural Language Processing (NLP2026), Japan, I proposed "Referenceability" as an evaluation axis for whether an AI system can reach the correct reference point.
 
-Using a 321-episode Japanese dataset derived from the essay series *Shitto Mania*, we test whether structured metadata improves retrieval performance compared to full text.
+Under the reported RAG conditions, structured metadata achieved Recall@10 of 59.0%, compared with 5.3% for body text (11.1x, p < 0.001). This result concerns Reference Retrieval in the tested RAG setting; it does not claim an 11.1x improvement in ChatGPT, Google AI Mode, or other public AI-search systems.
 
-**Key finding:** structured metadata alone outperforms full text by **11.1×** in TF-IDF retrieval (**59.0% vs 5.3% Recall@10**, p < 0.001). The advantage also persists in dense retrieval (E5).
+Japanese paper title: RAG時代の言語資源設計原理―構造化テキストによる「参照可能性」の実証  
+English reference translation: Design Principles for Language Resources in the RAG Era: Demonstrating "Referenceability" through Structured Text
 
-Our central claim is simple: in the RAG era, language resources should be designed not only as text for humans to read, but as **referenceable specifications for AI systems**.
-
-- **Paper (NLP2026)**: https://anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf
-- **Dataset (Hugging Face)**: https://huggingface.co/datasets/samuraijun/shitto-mania-dic
-- **Main repository**: https://github.com/junikematsu/shitto-mania-dic
+- Canonical overview (English): [What Is AI Referenceability?](https://note.com/ikematsu/n/na8afe18d94a4)
+- Canonical overview (Japanese): [AI参照可能性とは何か？](https://note.com/ikematsu/n/n628d654a83da)
+- Paper: [NLP2026 Q5-8](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf)
+- GitHub: [shitto-mania-dic](https://github.com/junikematsu/shitto-mania-dic)
+- Hugging Face: [shitto-mania-dic](https://huggingface.co/datasets/samuraijun/shitto-mania-dic)
+- Technical explanation: [Qiita](https://qiita.com/jun_ikematsu/items/d19d179545dca51d41b7)
 
 ## Files
 
