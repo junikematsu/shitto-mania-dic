@@ -103,7 +103,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 - **Design matters more than compute:** **TF-IDF + `core_text` (69.2%)** outperforms **Dense E5 + `core_text` (53.0%)**. In pairwise analysis, TF-IDF beats Dense E5 on **67%** of structure-oriented queries.
 
-- **Dense retrieval does not rescue `long_text`:** **Dense E5 + `chunked_long_text`** reaches only **6.3%** `STRUCT` Hit@10, which is nearly the same as **TF-IDF + `long_text` (5.3%)**. Even semantic vector retrieval does not substantially improve retrieval when the source text itself is not structured for reference.
+- **Dense retrieval does not rescue `long_text`:** **Dense E5 + `chunked_long_text`** reaches only **6.3%** `STRUCT` Hit@10, which is nearly the same as **TF-IDF + `long_text` (5.3%)**. 
 
 - **Interaction with query type:** For `distance_effort` queries, **Dense E5 + `core_text`** performs especially poorly (**17.0%**), suggesting that exact matching of categorical cues remains important in this type of retrieval task. By contrast, for `behavior` queries, **Dense E5 + `core_text`** reaches **51.0%**, indicating a better fit between behavior descriptions and embedding-based retrieval.
 
