@@ -49,7 +49,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 ## 追加実験 / Extended Experiment: TF-IDF vs Dense Retrieval
 
-論文報告後、TF-IDF（疎ベクトル）に加えてDense Retrieval（密ベクトル: multilingual-e5-large）による追加実験を実施し、「参照可能性」が検索手法に依存しない汎用的な設計原理であることを検証した。
+論文報告後、TF-IDF（疎ベクトル）に加えてDense Retrieval（密ベクトル: multilingual-e5-large）による追加実験を実施した。今回のデータセットでは、構造化メタデータの優位はDense Retrievalでも確認された。
 
 ### 実験条件 / Conditions
 
