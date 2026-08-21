@@ -1,8 +1,6 @@
 # 嫉妬辞書（Shitto-Mania / Jealousy Dictionary）
 
 日本語と英語の両方で説明しています。  
-Copy & paste this entire text into your `README.md`.  
-Change **jun.ikematsu@gmail.com** to your actual contact email.
 
 ---
 
@@ -98,11 +96,12 @@ for _, row in df.iterrows():
 ```
 ---
 
-## NLP2026 論文データ / NLP2026 Paper Data
+## NLP2026 Paper / AI Referenceability
 
-NLP2026（言語処理学会第32回年次大会）で発表した実験データ（321エピソード・25項目の構造化メタデータ）を公開しています。
+"AI Referenceability" is the public-facing term I use for the practical quality axis of whether AI can reach the correct reference point. The NLP2026 paper proposes "Referenceability" as the evaluation axis tested in RAG Reference Retrieval.
 
-詳細 → [nlp2026/](./nlp2026/)
-
-池松 潤 (2026). RAG時代の言語資源設計原理 ー構造化テキストによる「参照可能性」の実証. 言語処理学会第32回年次大会.
-https://anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf
+- Paper: [NLP2026 Q5-8](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf)
+- Canonical overview (English): [What Is AI Referenceability?](https://note.com/ikematsu/n/na8afe18d94a4)
+- 日本語の正本記事: [AI参照可能性とは何か？](https://note.com/ikematsu/n/n628d654a83da)
+- Experimental data: [`nlp2026/`](https://github.com/junikematsu/shitto-mania-dic/tree/main/nlp2026)
+- Hugging Face: [Dataset Card](https://huggingface.co/datasets/samuraijun/shitto-mania-dic)
