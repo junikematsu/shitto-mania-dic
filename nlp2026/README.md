@@ -129,7 +129,7 @@ This project was conducted with the cooperation of essayist Nami Saito (material
 
 ## Reference
 
-池松 潤 (2026). RAG時代の言語資源設計原理ー構造化テキストによる「参照可能性」の実証. 言語処理学会第32回年次大会.
+池松 潤 (2026). RAG時代の言語資源設計原理―構造化テキストによる「参照可能性」の実証. 言語処理学会第32回年次大会.
 https://anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf
 
 ## License
