@@ -89,7 +89,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 ### 追加実験の知見 / Key Findings
 
-1. **汎用性**: 構造化メタデータ（core_text）の優位性は、TF-IDFだけでなくDense Retrievalでも成立する（STRUCT: 37.3% vs 6.3%、5.9倍）。「参照可能性」は検索手法に依存しない言語資源設計の原理である。
+1. Dense Retrievalでも確認: 構造化メタデータ（core_text）の優位性は、multilingual-e5-largeでも確認された（STRUCT: 37.3% vs 6.3%、5.9倍）。ただし、これは1つのDenseモデル・1つのデータセットでの結果であり、検索手法一般に依存しないことを示すものではない。
 
 2. **設計 > 計算力**: TF-IDF + core_text（69.2%）が Dense E5 + core_text（53.0%）を上回った。高コストのベクトル検索でも、適切に設計されたメタデータ＋TF-IDFには及ばない。ペア分析では、構造クエリの67%でTF-IDFがDense E5に勝利した。
 
