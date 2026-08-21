@@ -118,7 +118,6 @@ English reference translation: Design Principles for Language Resources in the R
 This dataset is based on "Shitto-Mania" by Nami Saito, serialized on Fujinkoron.jp.
 **Copyright © Nami Saito. All rights reserved.**
 
-- **For research and educational purposes only.**
 - **Commercial use, resale, or use in commercial AI training is prohibited.**
 - Please credit: Nami Saito, "Shitto-Mania," Fujinkoron.jp.
 
