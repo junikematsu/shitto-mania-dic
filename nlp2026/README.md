@@ -101,7 +101,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 - **Persistence under dense retrieval:** The advantage of structured metadata (`core_text`) also appeared with multilingual-e5-large (`STRUCT`: **37.3% vs 6.3%**, **5.9×**). In this dataset, the effect persisted under dense retrieval as well as TF-IDF. This does not establish retrieval-method independence.
 
-**Design matters more than compute:** **TF-IDF + `core_text` (69.2%)** outperforms **Dense E5 + `core_text` (53.0%)**. Even higher-cost vector retrieval does not surpass well-designed metadata combined with simple sparse retrieval. In pairwise analysis, TF-IDF beats Dense E5 on **67%** of structure-oriented queries.
+- **Design matters more than compute:** **TF-IDF + `core_text` (69.2%)** outperforms **Dense E5 + `core_text` (53.0%)**. Even higher-cost vector retrieval does not surpass well-designed metadata combined with simple sparse retrieval. In pairwise analysis, TF-IDF beats Dense E5 on **67%** of structure-oriented queries.
 
 - **Dense retrieval does not rescue `long_text`:** **Dense E5 + `chunked_long_text`** reaches only **6.3%** `STRUCT` Hit@10, which is nearly the same as **TF-IDF + `long_text` (5.3%)**. Even semantic vector retrieval does not substantially improve retrieval when the source text itself is not structured for reference.
 
