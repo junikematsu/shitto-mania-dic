@@ -100,6 +100,8 @@ for _, row in df.iterrows():
 
 "AI Referenceability" is the public-facing term I use for the practical quality axis of whether AI can reach the correct reference point. The NLP2026 paper proposes "Referenceability" as the evaluation axis tested in RAG Reference Retrieval.
 
+- **Technical Note / DOI**: [AI Referenceability: A Framework for Designing Knowledge That AI Can Reliably Retrieve and Reference](https://doi.org/10.5281/zenodo.22073908) — DOI: `10.5281/zenodo.22073908`
+- **ORCID**: [Jun Ikematsu — 0009-0007-9651-5541](https://orcid.org/0009-0007-9651-5541)
 - Paper: [NLP2026 Q5-8](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf)
 - Canonical overview (English): [What Is AI Referenceability?](https://note.com/ikematsu/n/na8afe18d94a4)
 - 日本語の正本記事: [AI参照可能性とは何か？](https://note.com/ikematsu/n/n628d654a83da)
