@@ -11,6 +11,8 @@ Under the reported RAG conditions, structured metadata achieved Recall@10 of 59.
 Japanese paper title: RAG時代の言語資源設計原理―構造化テキストによる「参照可能性」の実証  
 English reference translation: Design Principles for Language Resources in the RAG Era: Demonstrating "Referenceability" through Structured Text
 
+- **Technical Note / DOI**: [AI Referenceability: A Framework for Designing Knowledge That AI Can Reliably Retrieve and Reference](https://doi.org/10.5281/zenodo.22073908) — DOI: `10.5281/zenodo.22073908`
+- **ORCID**: [Jun Ikematsu — 0009-0007-9651-5541](https://orcid.org/0009-0007-9651-5541)
 - Canonical overview (English): [What Is AI Referenceability?](https://note.com/ikematsu/n/na8afe18d94a4)
 - Canonical overview (Japanese): [AI参照可能性とは何か？](https://note.com/ikematsu/n/n628d654a83da)
 - Paper: [NLP2026 Q5-8](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf)
