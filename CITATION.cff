@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite this dataset and see the related AI Referenceability technical note: https://doi.org/10.5281/zenodo.22073908"
+title: "Shitto-Mania / Jealousy Dictionary — AI Referenceability Research Dataset"
+type: dataset
+authors:
+  - family-names: Ikematsu
+    given-names: Jun
+    orcid: "https://orcid.org/0009-0007-9651-5541"
+repository-code: "https://github.com/junikematsu/shitto-mania-dic"
+url: "https://github.com/junikematsu/shitto-mania-dic"
+keywords:
+  - AI Referenceability
+  - Referenceability
+  - Retrieval-Augmented Generation
+  - RAG
+  - Knowledge Design
+  - Knowledge Engineering
+  - Structured Knowledge
+  - Japanese NLP
+  - Dataset
+references:
+  - type: report
+    title: "AI Referenceability: A Framework for Designing Knowledge That AI Can Reliably Retrieve and Reference"
+    authors:
+      - family-names: Ikematsu
+        given-names: Jun
+        orcid: "https://orcid.org/0009-0007-9651-5541"
+    year: 2026
+    doi: "10.5281/zenodo.22073908"
+    url: "https://doi.org/10.5281/zenodo.22073908"
+  - type: conference-paper
+    title: "RAG時代の言語資源設計原理 ― 構造化テキストによる『参照可能性』の実証"
+    authors:
+      - family-names: Ikematsu
+        given-names: Jun
+        orcid: "https://orcid.org/0009-0007-9651-5541"
+    year: 2026
+    url: "https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/Q5-8.pdf"
