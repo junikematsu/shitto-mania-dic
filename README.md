@@ -5,21 +5,23 @@
 ---
 
 ## プロジェクト概要 / Project Overview
-- **日本語**  
-  「婦人公論.jp」連載『嫉妬マニア』の記事群から、感情「嫉妬」に関する言葉や文脈を抽出し、  
-  AIが学習しやすい形（CSV / JSON）に構造化したデータセットです。  
-  英語中心のAIモデルに対し、日本語の感情データを提供することで性能と公平性の向上に貢献します。
 
-- **English**  
-  The *Jealousy Dictionary* (Shitto-Mania) is a **high-quality Japanese single-language dataset**  
-  extracted from the *Shitto-Mania* essay series published on *Fujinkoron.jp*.  
-  It provides structured Japanese text and emotional context (“jealousy”) for AI training,  
-  helping global AI models reduce English-centric bias and improve fairness.
+### 日本語
 
-本プロジェクトは、エッセイスト斉藤ナミ氏の【著者協力】（素材提供・コメント）を得て制作しました。
-最終的な分析・設計は池松潤が行いました。
-This project was conducted with the cooperation of essayist Nami Saito (material provision and comments).
-All final analysis, design, and publication decisions are the responsibility of Jun Ikematsu.
+本リポジトリは、婦人公論.jp連載『嫉妬マニア』（斉藤ナミ氏）を対象に構築した、構造化言語資源とNLP2026実験データを公開するためのリポジトリです。
+
+NLP2026では、全321エピソードを対象に25項目の構造化メタデータを作成し、RAGにおいてAIが正しい参照先へ到達できる性質を「参照可能性（Referenceability）」として評価しました。
+
+本研究は、嫉妬という感情そのものを分類・分析する感情分析研究ではありません。主な研究対象は、同じ情報源でも「どのように構造化して記述するか」によって検索・参照性能がどのように変わるか、という言語資源設計の問題です。
+
+### English
+
+This repository contains the structured language resource and experimental data used in the NLP2026 study based on the *Shitto-Mania* essay series by Nami Saito, published on Fujinkoron.jp.
+
+For NLP2026, 321 episodes were represented using 25 structured metadata fields, and evaluated in a RAG reference-retrieval setting. The study introduces **Referenceability** as an evaluation axis for whether an AI system can reach the correct reference point.
+
+This is **not a sentiment-analysis or emotion-classification study**. The primary research question is how the representation and structuring of the same source material affect retrieval and reference performance.
+
 
 ---
 
