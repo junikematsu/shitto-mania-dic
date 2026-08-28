@@ -39,15 +39,17 @@ Copyright © Nami Saito.
 
 ---
 ## 重要性 / Why It Matters
-- **日本語**  
-  世界のAIモデルは英語に偏っており、多言語モデルにおける日本語データはわずか0.1%未満です。  
-  本辞書は、日本語特有の感情表現（特に嫉妬）をAIが正しく理解するために不可欠なリソースです。
 
-- **English**  
-  Most AI models are English-centric, and Japanese data represents less than 0.1%  
-  in large multilingual models.  
-  This dataset offers high-quality single-language Japanese data to help  
-  AI developers improve model fairness and performance.
+* **日本語**
+  AIが正しい情報を参照できるかどうかは、情報量だけでなく、情報がどのように構造化・記述されているかにも左右されます。
+  本データセットと実験は、同じ情報源であっても、構造化メタデータと本文テキストでは検索・参照性能が大きく異なり得ることを示しています。
+  NLP2026では、この「AIが正しい参照先へ到達しやすい性質」を「参照可能性（Referenceability）」として評価しました。
+
+* **English**
+  Whether an AI system can reach the correct reference depends not only on the amount of information available, but also on how that information is structured and represented.
+  This dataset and the accompanying experiments examine how retrieval and reference performance can differ substantially between structured metadata and body text derived from the same source material.
+  The NLP2026 study evaluates this property as **Referenceability**.
+
 
 ---
 
