@@ -54,14 +54,32 @@ Copyright © Nami Saito.
 ---
 
 ## 利用例 / Use Cases
-- **日本語**  
-  - 日本語RAGシステムにおける感情を考慮した回答生成  
-  - 日本語センチメント分析や感情分類  
-  - LLMのファインチューニングやバイアス評価  
-- **English**  
-  - RAG systems with Japanese emotional nuance  
-  - Sentiment or emotion analysis tasks in Japanese  
-  - Fine-tuning large language models or bias evaluation
+
+### NLP2026データ / NLP2026 Data
+
+* **日本語**
+
+  * RAGにおける参照検索性能の評価
+  * 構造化メタデータと本文テキストの検索性能比較
+  * AI参照可能性（Referenceability）の評価
+  * 言語資源の構造化・表現設計に関する実験
+
+* **English**
+
+  * Evaluation of reference retrieval performance in RAG systems
+  * Comparison of retrieval performance between structured metadata and body text
+  * Evaluation of AI Referenceability
+  * Experiments on structured representation and language-resource design
+
+### 旧18件データ / Legacy 18-Entry Dataset
+
+ルートに残る旧18件データは、NLP2026の321件実験データとは別の初期データセットです。
+
+* 日本語の感情表現・嫉妬表現に関する探索的利用
+* sentiment / emotion analysis の試行
+* RAGやLLM利用のためのサンプルデータ
+
+The legacy 18-entry files in the repository are separate from the 321-episode NLP2026 experimental dataset and are retained as earlier project materials.
 
 ---
 
