@@ -126,13 +126,25 @@ Sample CSV → [`sample_data.csv`](./sample_data.csv)
 ---
 
 ## データセットの統計情報 / Dataset Statistics
-- **日本語**
-  - **総記事数**: 18件
-  - **出典**: [「婦人公論.jp」連載『嫉妬マニア』](https://fujinkoron.jp/category/shitto_mania)
 
-- **English**
-  - **Total Entries**: 18
-  - **Source**: [*Shitto-Mania* series on *Fujinkoron.jp*](https://fujinkoron.jp/category/shitto_mania)
+### NLP2026データ / NLP2026 Data
+
+* **エピソード数 / Episodes**: 321
+* **構造化メタデータ / Structured metadata fields**: 25
+* **評価クエリ / Evaluation queries**: 400
+* **出典 / Source**: [「婦人公論.jp」連載『嫉妬マニア』](https://fujinkoron.jp/category/shitto_mania)
+
+詳細は [`nlp2026/README.md`](./nlp2026/README.md) を参照してください。
+
+### 旧18件データ / Legacy 18-Entry Dataset
+
+* **総記事数 / Total entries**: 18
+* **出典 / Source**: [「婦人公論.jp」連載『嫉妬マニア』](https://fujinkoron.jp/category/shitto_mania)
+
+この18件データはNLP2026以前に作成した初期データセットであり、NLP2026の321エピソード実験データとは別です。
+
+The 18-entry dataset is an earlier project dataset and is separate from the 321-episode NLP2026 experimental dataset.
+
 
 ## 使い方サンプル / Quick Usage Example (Python)
 ```python
