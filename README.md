@@ -84,15 +84,44 @@ The legacy 18-entry files in the repository are separate from the 321-episode NL
 ---
 
 ## データ形式 / Data Format
-| 列 / Column | 内容 (日本語) / Description (English) |
-|---|---|
-| `term` | キーワード / Key word or phrase |
-| `definition_ja` | 日本語定義 / Definition in Japanese |
-| `context` | 使用例や文章 / Usage example or context |
-| `polarity` | 感情極性（正/負/中立） / Emotional polarity (positive/negative/neutral) |
-| `source` | 出典記事IDやURL / Source article ID or URL |
 
-サンプルデータはこちら / Sample CSV → **[sample_data.csv](./sample_data.csv)**
+### NLP2026データ / NLP2026 Data
+
+NLP2026で使用した実験データは [`nlp2026/`](./nlp2026) にあります。
+
+主なデータ：
+
+* 321エピソード
+* 25項目の構造化メタデータ
+* `core_text`
+* 400件の評価クエリ
+* TF-IDFおよびDense Retrievalの実験結果
+
+詳細なファイル構成・実験条件・評価結果は [`nlp2026/README.md`](./nlp2026/README.md) を参照してください。
+
+The NLP2026 experimental data is available in [`nlp2026/`](./nlp2026), including:
+
+* 321 episodes
+* 25 structured metadata fields
+* `core_text`
+* 400 evaluation queries
+* TF-IDF and Dense Retrieval experiment results
+
+See [`nlp2026/README.md`](./nlp2026/README.md) for detailed file descriptions, experimental conditions, and results.
+
+### 旧18件データ / Legacy 18-Entry Dataset
+
+ルートにある `sample_data.csv` などは、NLP2026以前に作成した初期データセットです。
+
+| 列 / Column      | 内容 / Description                      |
+| --------------- | ------------------------------------- |
+| `term`          | キーワード / Key word or phrase            |
+| `definition_ja` | 日本語定義 / Definition in Japanese        |
+| `context`       | 使用例や文章 / Usage example or context     |
+| `polarity`      | 感情極性 / Emotional polarity             |
+| `source`        | 出典記事IDやURL / Source article ID or URL |
+
+Sample CSV → [`sample_data.csv`](./sample_data.csv)
 
 ---
 
