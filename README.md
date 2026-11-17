@@ -109,9 +109,18 @@ The NLP2026 experimental data is available in [`nlp2026/`](./nlp2026), including
 
 See [`nlp2026/README.md`](./nlp2026/README.md) for detailed file descriptions, experimental conditions, and results.
 
-### 旧18件データ / Legacy 18-Entry Dataset
+### 初期データと形式サンプル / Legacy Data and Format Sample
 
-ルートにある `sample_data.csv` などは、NLP2026以前に作成した初期データセットです。
+ルートには、次の異なる2ファイルがあります。
+
+* [`◆ 20250926 shitto profile 1−18 .csv`](./%E2%97%86%2020250926%20shitto%20profile%201%E2%88%9218%20.csv): 初期データ（18データ行・13列） / Legacy dataset (18 data rows, 13 columns)
+* [`sample_data.csv`](./sample_data.csv): 形式サンプル（3データ行・5列） / Format sample (3 data rows, 5 columns)
+
+いずれも、`nlp2026/`にある321エピソードの実験用CSVとは別です。
+Both files are separate from the 321-episode experimental CSV in `nlp2026/`.
+
+以下の表は、`sample_data.csv`の5列を説明しています。
+The following table describes the five columns in `sample_data.csv`.
 
 | 列 / Column      | 内容 / Description                      |
 | --------------- | ------------------------------------- |

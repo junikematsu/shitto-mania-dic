@@ -24,7 +24,7 @@ English reference translation: Design Principles for Language Resources in the R
 
 | File | Description |
 | --- | --- |
-| `nami_episode_table_cleaned_with_core_text.csv` | Dataset (321 episodes, 25 metadata fields + core_text) |
+| `nami_episode_table_cleaned_with_core_text.csv` | Dataset (321 episodes; 27 CSV columns: the 25 fields listed in the paper + `episode_id` + `core_text`) |
 | `reference_queries_autogen_400.csv` | Evaluation queries (400 queries, 4 styles × 100) |
 | `experiment_results_all_conditions.csv` | Experiment results: TF-IDF (1,600 rows: 400 queries × 4 conditions) |
 | `nlp2026_extended_per_query_results.csv` | **[New]** Extended experiment results: TF-IDF + Dense (1,600 rows: 400 queries × 4 conditions) |
@@ -35,6 +35,7 @@ English reference translation: Design Principles for Language Resources in the R
   - https://fujinkoron.jp/category/shitto_mania
 - **エピソード数 / Episodes**: 321件
 - **メタデータ項目 / Metadata fields**: 25項目（構造化メタデータ）
+- **CSV列数 / CSV columns**: 27（論文掲載の25項目 + `episode_id` + `core_text`）
 - **評価クエリ / Evaluation queries**: 400件（4種類 × 100件）
 
 ## 主要結果 / Key Results（論文報告）
